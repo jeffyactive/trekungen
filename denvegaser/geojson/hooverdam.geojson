@@ -1,0 +1,4881 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-03-09T01:17:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30366381",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "lanes": "2",
+        "layer": "1",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "source": "Yahoo image;TIGER",
+        "unsigned_ref": "AZ 93X"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7357317,
+            36.0138305
+          ],
+          [
+            -114.735467,
+            36.0135153
+          ]
+        ]
+      },
+      "id": "way/30366381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325123",
+        "NHS": "STRAHNET",
+        "adot_name": "Hoover Dam-Kingman Highway",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "fut_ref": "I 11",
+        "hgv": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "65 mph",
+        "name": "Hoover Dam Bypass",
+        "oneway": "yes",
+        "ref": "US 93",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7317847,
+            36.0096446
+          ],
+          [
+            -114.7314075,
+            36.0095766
+          ],
+          [
+            -114.7310437,
+            36.0094934
+          ],
+          [
+            -114.7306813,
+            36.0093951
+          ],
+          [
+            -114.7303322,
+            36.0092837
+          ],
+          [
+            -114.7299839,
+            36.0091712
+          ],
+          [
+            -114.7296436,
+            36.0090458
+          ],
+          [
+            -114.7293113,
+            36.0089127
+          ],
+          [
+            -114.7289857,
+            36.0087666
+          ]
+        ]
+      },
+      "id": "way/38325123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325125",
+        "NHS": "STRAHNET",
+        "adot_name": "Hoover Dam-Kingman Highway",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "fut_ref": "I 11",
+        "hgv": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass",
+        "oneway": "yes",
+        "ref": "US 93",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7289145,
+            36.0088495
+          ],
+          [
+            -114.729245,
+            36.0090038
+          ],
+          [
+            -114.7295835,
+            36.0091428
+          ],
+          [
+            -114.7299301,
+            36.0092711
+          ],
+          [
+            -114.730282,
+            36.0093896
+          ],
+          [
+            -114.7306447,
+            36.0094967
+          ],
+          [
+            -114.7310127,
+            36.0096005
+          ],
+          [
+            -114.7313767,
+            36.0096848
+          ],
+          [
+            -114.7317622,
+            36.0097517
+          ]
+        ]
+      },
+      "id": "way/38325125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325126",
+        "NHS": "STRAHNET",
+        "adot_name": "Hoover Dam-Kingman Highway",
+        "bicycle": "yes",
+        "fut_ref": "I 11",
+        "hgv": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass",
+        "oneway": "yes",
+        "ref": "US 93",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7317622,
+            36.0097517
+          ],
+          [
+            -114.7321357,
+            36.0098137
+          ],
+          [
+            -114.7325011,
+            36.0098615
+          ],
+          [
+            -114.7340394,
+            36.0100602
+          ],
+          [
+            -114.7349753,
+            36.0101739
+          ],
+          [
+            -114.7355774,
+            36.0102693
+          ],
+          [
+            -114.7359583,
+            36.0103468
+          ],
+          [
+            -114.7363279,
+            36.0104254
+          ],
+          [
+            -114.7367536,
+            36.0105363
+          ],
+          [
+            -114.7371435,
+            36.0106566
+          ],
+          [
+            -114.7375589,
+            36.0108061
+          ],
+          [
+            -114.7379948,
+            36.0109894
+          ],
+          [
+            -114.7390861,
+            36.011484
+          ]
+        ]
+      },
+      "id": "way/38325126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325128",
+        "NHS": "STRAHNET",
+        "adot_name": "Hoover Dam-Kingman Highway",
+        "bicycle": "yes",
+        "fut_ref": "I 11",
+        "hgv": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "65 mph",
+        "name": "Hoover Dam Bypass",
+        "oneway": "yes",
+        "ref": "US 93",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7369949,
+            36.0105
+          ],
+          [
+            -114.7368311,
+            36.0104458
+          ],
+          [
+            -114.736352,
+            36.0103246
+          ],
+          [
+            -114.7359198,
+            36.0102322
+          ],
+          [
+            -114.7356007,
+            36.010167
+          ],
+          [
+            -114.7350064,
+            36.0100756
+          ],
+          [
+            -114.7340466,
+            36.0099474
+          ],
+          [
+            -114.7323645,
+            36.0097385
+          ],
+          [
+            -114.7320732,
+            36.0096948
+          ],
+          [
+            -114.7317847,
+            36.0096446
+          ]
+        ]
+      },
+      "id": "way/38325128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325129",
+        "NHS": "Interstate",
+        "bicycle": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7446412,
+            36.0141141
+          ],
+          [
+            -114.7453148,
+            36.0143691
+          ],
+          [
+            -114.745878,
+            36.0145736
+          ],
+          [
+            -114.7464412,
+            36.0147668
+          ],
+          [
+            -114.7468607,
+            36.0148961
+          ],
+          [
+            -114.7472556,
+            36.0150073
+          ],
+          [
+            -114.7479554,
+            36.0151539
+          ],
+          [
+            -114.748532,
+            36.0152559
+          ],
+          [
+            -114.7490862,
+            36.0153319
+          ],
+          [
+            -114.7495695,
+            36.0153731
+          ],
+          [
+            -114.7501182,
+            36.0154127
+          ],
+          [
+            -114.7506912,
+            36.0154336
+          ],
+          [
+            -114.7514212,
+            36.0154357
+          ]
+        ]
+      },
+      "id": "way/38325129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325130",
+        "NHS": "Interstate",
+        "alt_name": "Hoover Dam Bypass;Purple Heart Highway",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "65 mph",
+        "name": "Mike O'Callaghan-Pat Tillman Memorial Bridge",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "concrete",
+        "wikipedia": "en:Mike O'Callaghan–Pat Tillman Memorial Bridge"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7446999,
+            36.0140344
+          ],
+          [
+            -114.7439006,
+            36.0136679
+          ],
+          [
+            -114.7411668,
+            36.0123461
+          ]
+        ]
+      },
+      "id": "way/38325130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325131",
+        "NHS": "Interstate",
+        "bicycle": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7515278,
+            36.0153359
+          ],
+          [
+            -114.7507974,
+            36.015336
+          ],
+          [
+            -114.7502389,
+            36.0153221
+          ],
+          [
+            -114.7495579,
+            36.0152762
+          ],
+          [
+            -114.7487596,
+            36.0151916
+          ],
+          [
+            -114.7479988,
+            36.0150481
+          ],
+          [
+            -114.7474475,
+            36.0149351
+          ],
+          [
+            -114.746846,
+            36.014779
+          ],
+          [
+            -114.7461527,
+            36.0145624
+          ],
+          [
+            -114.7453721,
+            36.0142819
+          ],
+          [
+            -114.7446999,
+            36.0140344
+          ]
+        ]
+      },
+      "id": "way/38325131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325132",
+        "NHS": "Interstate",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7514212,
+            36.0154357
+          ],
+          [
+            -114.751683,
+            36.0154284
+          ],
+          [
+            -114.7519233,
+            36.0154168
+          ]
+        ]
+      },
+      "id": "way/38325132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325133",
+        "NHS": "Interstate",
+        "bicycle": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7519233,
+            36.0154168
+          ],
+          [
+            -114.7523539,
+            36.015387
+          ],
+          [
+            -114.7527965,
+            36.0153378
+          ],
+          [
+            -114.7533201,
+            36.0152744
+          ],
+          [
+            -114.7539805,
+            36.0151594
+          ],
+          [
+            -114.7549651,
+            36.0149208
+          ]
+        ]
+      },
+      "id": "way/38325133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325134",
+        "NHS": "Interstate",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7549651,
+            36.0149208
+          ],
+          [
+            -114.7553281,
+            36.0148195
+          ],
+          [
+            -114.755682,
+            36.0147114
+          ],
+          [
+            -114.7559131,
+            36.0146379
+          ],
+          [
+            -114.7561495,
+            36.01456
+          ],
+          [
+            -114.7564322,
+            36.0144531
+          ]
+        ]
+      },
+      "id": "way/38325134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325135",
+        "NHS": "Interstate",
+        "bicycle": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7548043,
+            36.0148625
+          ],
+          [
+            -114.7539037,
+            36.0150747
+          ],
+          [
+            -114.7532504,
+            36.0151907
+          ],
+          [
+            -114.7528314,
+            36.0152483
+          ],
+          [
+            -114.7524246,
+            36.0152859
+          ],
+          [
+            -114.7520259,
+            36.015317
+          ]
+        ]
+      },
+      "id": "way/38325135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325136",
+        "NHS": "Interstate",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7520259,
+            36.015317
+          ],
+          [
+            -114.7517795,
+            36.0153318
+          ],
+          [
+            -114.7515278,
+            36.0153359
+          ]
+        ]
+      },
+      "id": "way/38325136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325137",
+        "NHS": "Interstate",
+        "bicycle": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7583384,
+            36.0134441
+          ],
+          [
+            -114.7578561,
+            36.0137109
+          ],
+          [
+            -114.757281,
+            36.0139891
+          ],
+          [
+            -114.7568217,
+            36.0141974
+          ],
+          [
+            -114.7562921,
+            36.0144029
+          ]
+        ]
+      },
+      "id": "way/38325137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325138",
+        "NHS": "Interstate",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7562921,
+            36.0144029
+          ],
+          [
+            -114.7559966,
+            36.0145039
+          ],
+          [
+            -114.7556517,
+            36.0146228
+          ],
+          [
+            -114.7553509,
+            36.0147165
+          ],
+          [
+            -114.7550984,
+            36.0147863
+          ],
+          [
+            -114.7548043,
+            36.0148625
+          ]
+        ]
+      },
+      "id": "way/38325138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325139",
+        "NHS": "Interstate",
+        "bicycle": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7564322,
+            36.0144531
+          ],
+          [
+            -114.7569141,
+            36.0142669
+          ],
+          [
+            -114.7573446,
+            36.0140752
+          ],
+          [
+            -114.757908,
+            36.0137974
+          ],
+          [
+            -114.7583798,
+            36.0135347
+          ]
+        ]
+      },
+      "id": "way/38325139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325140",
+        "NHS": "Interstate",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7583798,
+            36.0135347
+          ],
+          [
+            -114.7589749,
+            36.0131783
+          ]
+        ]
+      },
+      "id": "way/38325140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325141",
+        "NHS": "Interstate",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7589393,
+            36.0130827
+          ],
+          [
+            -114.7583384,
+            36.0134441
+          ]
+        ]
+      },
+      "id": "way/38325141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325142",
+        "NHS": "Interstate",
+        "bicycle": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7589749,
+            36.0131783
+          ],
+          [
+            -114.7593606,
+            36.0129214
+          ],
+          [
+            -114.7597315,
+            36.0126483
+          ],
+          [
+            -114.7605215,
+            36.0120585
+          ],
+          [
+            -114.7613,
+            36.0114704
+          ],
+          [
+            -114.7617114,
+            36.0111615
+          ],
+          [
+            -114.762104,
+            36.0108779
+          ],
+          [
+            -114.7623259,
+            36.0107458
+          ],
+          [
+            -114.7626596,
+            36.0105673
+          ],
+          [
+            -114.7630101,
+            36.0104087
+          ],
+          [
+            -114.7633725,
+            36.0102726
+          ],
+          [
+            -114.7637704,
+            36.0101491
+          ],
+          [
+            -114.7641417,
+            36.0100572
+          ],
+          [
+            -114.7645125,
+            36.0099839
+          ],
+          [
+            -114.7650588,
+            36.0099238
+          ],
+          [
+            -114.7653933,
+            36.0098999
+          ],
+          [
+            -114.7657182,
+            36.0099107
+          ]
+        ]
+      },
+      "id": "way/38325142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325143",
+        "NHS": "Interstate",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7674549,
+            36.0100305
+          ],
+          [
+            -114.7671751,
+            36.0099497
+          ],
+          [
+            -114.7668735,
+            36.0098831
+          ],
+          [
+            -114.7665266,
+            36.0098277
+          ],
+          [
+            -114.7661738,
+            36.0097941
+          ],
+          [
+            -114.7657456,
+            36.0097968
+          ]
+        ]
+      },
+      "id": "way/38325143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325144",
+        "NHS": "Interstate",
+        "bicycle": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7657456,
+            36.0097968
+          ],
+          [
+            -114.7653885,
+            36.0098028
+          ],
+          [
+            -114.7650285,
+            36.0098269
+          ],
+          [
+            -114.7645035,
+            36.0098896
+          ],
+          [
+            -114.7640996,
+            36.0099668
+          ],
+          [
+            -114.7637445,
+            36.0100533
+          ],
+          [
+            -114.7633373,
+            36.0101817
+          ],
+          [
+            -114.7629663,
+            36.0103235
+          ],
+          [
+            -114.7626182,
+            36.0104758
+          ],
+          [
+            -114.7622902,
+            36.0106474
+          ],
+          [
+            -114.7619788,
+            36.0108395
+          ],
+          [
+            -114.7616547,
+            36.011071
+          ],
+          [
+            -114.7612619,
+            36.0113664
+          ],
+          [
+            -114.760458,
+            36.0119762
+          ],
+          [
+            -114.7596433,
+            36.0125804
+          ],
+          [
+            -114.7595233,
+            36.0126701
+          ],
+          [
+            -114.7592958,
+            36.0128414
+          ],
+          [
+            -114.7589393,
+            36.0130827
+          ]
+        ]
+      },
+      "id": "way/38325144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325145",
+        "NHS": "Interstate",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7657182,
+            36.0099107
+          ],
+          [
+            -114.766151,
+            36.0099202
+          ],
+          [
+            -114.7665001,
+            36.0099443
+          ],
+          [
+            -114.7668183,
+            36.0099996
+          ],
+          [
+            -114.7671233,
+            36.0100724
+          ],
+          [
+            -114.7674066,
+            36.0101492
+          ]
+        ]
+      },
+      "id": "way/38325145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325146",
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7686677,
+            36.0106175
+          ],
+          [
+            -114.7694273,
+            36.0108928
+          ],
+          [
+            -114.7699909,
+            36.0110845
+          ],
+          [
+            -114.7704296,
+            36.0112088
+          ],
+          [
+            -114.7709125,
+            36.0113209
+          ],
+          [
+            -114.7715281,
+            36.0114138
+          ],
+          [
+            -114.771971,
+            36.0114706
+          ],
+          [
+            -114.7723978,
+            36.0115014
+          ],
+          [
+            -114.7727837,
+            36.011512
+          ],
+          [
+            -114.7731696,
+            36.0115075
+          ],
+          [
+            -114.7735177,
+            36.0114884
+          ],
+          [
+            -114.7738657,
+            36.0114562
+          ],
+          [
+            -114.7739475,
+            36.0114484
+          ]
+        ]
+      },
+      "id": "way/38325146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325147",
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "bridge": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7744287,
+            36.0112927
+          ],
+          [
+            -114.7741613,
+            36.0113286
+          ],
+          [
+            -114.77391,
+            36.0113559
+          ]
+        ]
+      },
+      "id": "way/38325147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325148",
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.77391,
+            36.0113559
+          ],
+          [
+            -114.7738216,
+            36.0113636
+          ],
+          [
+            -114.7734555,
+            36.0113913
+          ],
+          [
+            -114.7730922,
+            36.011406
+          ],
+          [
+            -114.7728072,
+            36.011409
+          ],
+          [
+            -114.7724472,
+            36.011399
+          ],
+          [
+            -114.7720122,
+            36.0113688
+          ],
+          [
+            -114.7715718,
+            36.0113235
+          ],
+          [
+            -114.7709649,
+            36.0112301
+          ],
+          [
+            -114.770485,
+            36.0111331
+          ],
+          [
+            -114.7700592,
+            36.0110129
+          ],
+          [
+            -114.7696569,
+            36.0108832
+          ],
+          [
+            -114.769309,
+            36.0107555
+          ],
+          [
+            -114.7689501,
+            36.0106141
+          ]
+        ]
+      },
+      "id": "way/38325148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38325149",
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "bridge": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7739475,
+            36.0114484
+          ],
+          [
+            -114.7742115,
+            36.0114216
+          ],
+          [
+            -114.7744755,
+            36.0113862
+          ]
+        ]
+      },
+      "id": "way/38325149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/82443616",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "layer": "1",
+        "name": "Hoover Dam Access Road",
+        "name:de": "Hoover-Talsperre",
+        "old_ref": "US 93;US 466",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7409949,
+            36.0152173
+          ],
+          [
+            -114.7409073,
+            36.0152881
+          ],
+          [
+            -114.7408345,
+            36.0153453
+          ],
+          [
+            -114.7402815,
+            36.0157709
+          ],
+          [
+            -114.739693,
+            36.0162507
+          ]
+        ]
+      },
+      "id": "way/82443616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/82443997",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "35 mph",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "ref": "NV 172"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7744893,
+            36.0123516
+          ],
+          [
+            -114.7742521,
+            36.0123771
+          ]
+        ]
+      },
+      "id": "way/82443997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/85547354",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "surface": "asphalt",
+        "unsigned_ref": "AZ 93X"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7312628,
+            36.0134675
+          ],
+          [
+            -114.7315774,
+            36.0134523
+          ],
+          [
+            -114.7319021,
+            36.0134374
+          ],
+          [
+            -114.7319619,
+            36.0134346
+          ],
+          [
+            -114.7320676,
+            36.0134276
+          ],
+          [
+            -114.73218,
+            36.0134147
+          ],
+          [
+            -114.7322553,
+            36.0134004
+          ],
+          [
+            -114.7323252,
+            36.0133839
+          ],
+          [
+            -114.7323969,
+            36.0133638
+          ],
+          [
+            -114.7324827,
+            36.0133368
+          ],
+          [
+            -114.732611,
+            36.0132692
+          ],
+          [
+            -114.7327051,
+            36.0132051
+          ],
+          [
+            -114.7328068,
+            36.0131234
+          ],
+          [
+            -114.7328895,
+            36.0130416
+          ],
+          [
+            -114.7329491,
+            36.0129511
+          ],
+          [
+            -114.7329926,
+            36.0128706
+          ],
+          [
+            -114.7332126,
+            36.0123153
+          ],
+          [
+            -114.7332809,
+            36.0121977
+          ],
+          [
+            -114.7333451,
+            36.0121156
+          ],
+          [
+            -114.7334116,
+            36.0120454
+          ],
+          [
+            -114.7334667,
+            36.0120083
+          ],
+          [
+            -114.7335443,
+            36.0119666
+          ],
+          [
+            -114.7335921,
+            36.0119428
+          ],
+          [
+            -114.7336365,
+            36.0119281
+          ],
+          [
+            -114.7337047,
+            36.0119077
+          ],
+          [
+            -114.7337882,
+            36.0118977
+          ],
+          [
+            -114.7338684,
+            36.0118932
+          ],
+          [
+            -114.7339512,
+            36.0118914
+          ],
+          [
+            -114.73403,
+            36.0118993
+          ],
+          [
+            -114.734114,
+            36.0119164
+          ],
+          [
+            -114.7341997,
+            36.0119422
+          ],
+          [
+            -114.7342718,
+            36.0119711
+          ],
+          [
+            -114.7343557,
+            36.0120193
+          ],
+          [
+            -114.7344389,
+            36.0120794
+          ],
+          [
+            -114.7344939,
+            36.0121479
+          ],
+          [
+            -114.7345383,
+            36.0122187
+          ],
+          [
+            -114.7346522,
+            36.0124698
+          ],
+          [
+            -114.7346755,
+            36.0125376
+          ],
+          [
+            -114.7346848,
+            36.0126095
+          ],
+          [
+            -114.734694,
+            36.0126818
+          ],
+          [
+            -114.7346874,
+            36.0127577
+          ],
+          [
+            -114.7346687,
+            36.0128342
+          ],
+          [
+            -114.7346414,
+            36.012909
+          ],
+          [
+            -114.7346096,
+            36.0129726
+          ],
+          [
+            -114.73455,
+            36.0130437
+          ],
+          [
+            -114.7344846,
+            36.0130984
+          ],
+          [
+            -114.7344077,
+            36.0131588
+          ],
+          [
+            -114.7343297,
+            36.0132026
+          ],
+          [
+            -114.7333317,
+            36.013587
+          ],
+          [
+            -114.7332311,
+            36.0136394
+          ],
+          [
+            -114.7331498,
+            36.0137015
+          ],
+          [
+            -114.7330834,
+            36.0137561
+          ],
+          [
+            -114.7330196,
+            36.0138142
+          ],
+          [
+            -114.7329765,
+            36.0138778
+          ],
+          [
+            -114.7329514,
+            36.0139242
+          ],
+          [
+            -114.732922,
+            36.0139959
+          ],
+          [
+            -114.7329032,
+            36.0140691
+          ],
+          [
+            -114.7329032,
+            36.0141525
+          ],
+          [
+            -114.7329033,
+            36.014216
+          ],
+          [
+            -114.7329167,
+            36.0142833
+          ],
+          [
+            -114.7329363,
+            36.014359
+          ],
+          [
+            -114.7331536,
+            36.0146888
+          ],
+          [
+            -114.7332074,
+            36.0147858
+          ],
+          [
+            -114.7332467,
+            36.0148874
+          ],
+          [
+            -114.7332767,
+            36.0149872
+          ],
+          [
+            -114.7332947,
+            36.0150738
+          ],
+          [
+            -114.733302,
+            36.0151518
+          ],
+          [
+            -114.7333043,
+            36.0152314
+          ],
+          [
+            -114.7332916,
+            36.0153264
+          ],
+          [
+            -114.7332233,
+            36.0155956
+          ],
+          [
+            -114.7332169,
+            36.0156469
+          ],
+          [
+            -114.7332147,
+            36.015681
+          ],
+          [
+            -114.7332169,
+            36.0157147
+          ],
+          [
+            -114.7332261,
+            36.015762
+          ],
+          [
+            -114.7332479,
+            36.0158097
+          ],
+          [
+            -114.7332706,
+            36.0158439
+          ],
+          [
+            -114.733297,
+            36.0158772
+          ],
+          [
+            -114.7333333,
+            36.0159026
+          ],
+          [
+            -114.7333842,
+            36.0159264
+          ],
+          [
+            -114.7334516,
+            36.0159435
+          ],
+          [
+            -114.7335352,
+            36.0159525
+          ],
+          [
+            -114.7335996,
+            36.0159481
+          ],
+          [
+            -114.7336497,
+            36.0159389
+          ],
+          [
+            -114.7336984,
+            36.0159219
+          ],
+          [
+            -114.7337409,
+            36.0158993
+          ],
+          [
+            -114.7337783,
+            36.0158638
+          ],
+          [
+            -114.7338102,
+            36.0158179
+          ],
+          [
+            -114.7338373,
+            36.0157662
+          ],
+          [
+            -114.7338461,
+            36.0157144
+          ],
+          [
+            -114.7338498,
+            36.0156628
+          ],
+          [
+            -114.7338428,
+            36.0156156
+          ],
+          [
+            -114.7338322,
+            36.0155544
+          ],
+          [
+            -114.7338203,
+            36.0154867
+          ],
+          [
+            -114.7337666,
+            36.015326
+          ],
+          [
+            -114.7335804,
+            36.0148465
+          ],
+          [
+            -114.7335549,
+            36.0147675
+          ],
+          [
+            -114.7335488,
+            36.0146912
+          ],
+          [
+            -114.7335513,
+            36.0146208
+          ],
+          [
+            -114.7335684,
+            36.0145438
+          ],
+          [
+            -114.7335943,
+            36.0144728
+          ],
+          [
+            -114.7336247,
+            36.0144049
+          ],
+          [
+            -114.7336727,
+            36.0143345
+          ],
+          [
+            -114.7337093,
+            36.014292
+          ],
+          [
+            -114.7337953,
+            36.0142046
+          ],
+          [
+            -114.7338804,
+            36.0141439
+          ],
+          [
+            -114.7339624,
+            36.0140974
+          ],
+          [
+            -114.7347458,
+            36.0136788
+          ]
+        ]
+      },
+      "id": "way/85547354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96848410",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "15 mph",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "oneway": "yes",
+        "ref": "NV 172"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.757232,
+            36.0149096
+          ],
+          [
+            -114.7569787,
+            36.0148887
+          ]
+        ]
+      },
+      "id": "way/96848410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/100867332",
+        "highway": "tertiary",
+        "layer": "1",
+        "name": "Hoover Dam Access Road",
+        "name:de": "Hoover-Talsperre",
+        "old_ref": "US 93;US 466",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7392106,
+            36.0164797
+          ],
+          [
+            -114.739064,
+            36.0165288
+          ],
+          [
+            -114.7389107,
+            36.0165733
+          ],
+          [
+            -114.7388183,
+            36.0165945
+          ],
+          [
+            -114.7387724,
+            36.0166043
+          ],
+          [
+            -114.7387087,
+            36.0166141
+          ],
+          [
+            -114.7385864,
+            36.0166296
+          ],
+          [
+            -114.7384808,
+            36.0166337
+          ],
+          [
+            -114.738331,
+            36.0166306
+          ],
+          [
+            -114.7381345,
+            36.0166109
+          ],
+          [
+            -114.7379188,
+            36.0165702
+          ],
+          [
+            -114.7378316,
+            36.0165416
+          ],
+          [
+            -114.7376993,
+            36.0164954
+          ],
+          [
+            -114.7375764,
+            36.0164437
+          ],
+          [
+            -114.7374752,
+            36.0163925
+          ],
+          [
+            -114.7374036,
+            36.0163471
+          ],
+          [
+            -114.7373287,
+            36.0162963
+          ],
+          [
+            -114.73725,
+            36.0162368
+          ],
+          [
+            -114.7372141,
+            36.0162082
+          ]
+        ]
+      },
+      "id": "way/100867332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/126301445",
+        "NHS": "STRAHNET",
+        "alt_name": "Hoover Dam Bypass",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "fut_ref": "I 11",
+        "hgv": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "55 mph",
+        "name": "Mike O'Callaghan-Pat Tillman Memorial Bridge",
+        "oneway": "yes",
+        "ref": "US 93",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "wikidata": "Q1293993",
+        "wikipedia": "en:Mike O'Callaghan–Pat Tillman Memorial Bridge"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7390861,
+            36.011484
+          ],
+          [
+            -114.7410985,
+            36.0124258
+          ]
+        ]
+      },
+      "id": "way/126301445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/139159420",
+        "NHS": "STRAHNET",
+        "alt_name": "Hoover Dam Bypass",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "fut_ref": "I 11",
+        "hgv": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "55 mph",
+        "name": "Mike O'Callaghan-Pat Tillman Memorial Bridge",
+        "oneway": "yes",
+        "ref": "US 93",
+        "surface": "concrete",
+        "wikidata": "Q1293993",
+        "wikipedia": "en:Mike O'Callaghan–Pat Tillman Memorial Bridge"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7411668,
+            36.0123461
+          ],
+          [
+            -114.7391461,
+            36.0114018
+          ]
+        ]
+      },
+      "id": "way/139159420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/139159421",
+        "NHS": "Interstate",
+        "alt_name": "Hoover Dam Bypass;Purple Heart Highway",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "55 mph",
+        "name": "Mike O'Callaghan-Pat Tillman Memorial Bridge",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "concrete",
+        "wikipedia": "en:Mike O'Callaghan–Pat Tillman Memorial Bridge"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7410985,
+            36.0124258
+          ],
+          [
+            -114.7428481,
+            36.0132629
+          ],
+          [
+            -114.7438602,
+            36.0137474
+          ],
+          [
+            -114.7446412,
+            36.0141141
+          ]
+        ]
+      },
+      "id": "way/139159421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/183883716",
+        "highway": "tertiary",
+        "lanes": "3",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7518771,
+            36.015252
+          ],
+          [
+            -114.7515354,
+            36.0155905
+          ],
+          [
+            -114.7514302,
+            36.0156824
+          ],
+          [
+            -114.7513062,
+            36.0157732
+          ],
+          [
+            -114.751157,
+            36.0158705
+          ],
+          [
+            -114.7510396,
+            36.0159331
+          ],
+          [
+            -114.7509156,
+            36.0159945
+          ],
+          [
+            -114.7507862,
+            36.0160418
+          ],
+          [
+            -114.7506515,
+            36.0160837
+          ],
+          [
+            -114.750438,
+            36.0161309
+          ],
+          [
+            -114.7502246,
+            36.0161591
+          ],
+          [
+            -114.7500809,
+            36.0161718
+          ],
+          [
+            -114.7499332,
+            36.0161736
+          ],
+          [
+            -114.7497759,
+            36.0161659
+          ],
+          [
+            -114.7495494,
+            36.0161362
+          ],
+          [
+            -114.7493335,
+            36.0160862
+          ],
+          [
+            -114.7491618,
+            36.0160304
+          ],
+          [
+            -114.7489976,
+            36.0159702
+          ],
+          [
+            -114.7482251,
+            36.0156697
+          ],
+          [
+            -114.7481048,
+            36.0156298
+          ],
+          [
+            -114.7479891,
+            36.0155974
+          ],
+          [
+            -114.7478894,
+            36.015574
+          ],
+          [
+            -114.747783,
+            36.0155572
+          ]
+        ]
+      },
+      "id": "way/183883716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/402809104",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "35 mph",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "oneway": "yes",
+        "ref": "NV 172"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7744893,
+            36.0123516
+          ],
+          [
+            -114.7745855,
+            36.0123317
+          ],
+          [
+            -114.7746898,
+            36.0123151
+          ],
+          [
+            -114.7748029,
+            36.0122865
+          ],
+          [
+            -114.7748917,
+            36.0122536
+          ]
+        ]
+      },
+      "id": "way/402809104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/492437727",
+        "highway": "tertiary",
+        "name": "Hoover Dam Access Road",
+        "name:de": "Hoover-Talsperre",
+        "old_ref": "US 93;US 466",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.739693,
+            36.0162507
+          ],
+          [
+            -114.7395733,
+            36.0163343
+          ],
+          [
+            -114.7394898,
+            36.0163808
+          ],
+          [
+            -114.7393404,
+            36.0164371
+          ],
+          [
+            -114.7392106,
+            36.0164797
+          ]
+        ]
+      },
+      "id": "way/492437727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/492437728",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Hoover Dam Access Road",
+        "name:de": "Hoover-Talsperre",
+        "old_ref": "US 93;US 466",
+        "surface": "asphalt",
+        "unsigned_ref": "AZ 93X"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7368779,
+            36.0147563
+          ],
+          [
+            -114.7368407,
+            36.0146936
+          ],
+          [
+            -114.736807,
+            36.0146607
+          ],
+          [
+            -114.7367106,
+            36.0146033
+          ],
+          [
+            -114.7364615,
+            36.0144729
+          ],
+          [
+            -114.7362839,
+            36.0143856
+          ],
+          [
+            -114.7361875,
+            36.0143163
+          ],
+          [
+            -114.7361036,
+            36.0142472
+          ],
+          [
+            -114.7360077,
+            36.0141616
+          ],
+          [
+            -114.7357984,
+            36.0139115
+          ],
+          [
+            -114.7357317,
+            36.0138305
+          ]
+        ]
+      },
+      "id": "way/492437728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544923092",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.742311,
+            36.0143029
+          ],
+          [
+            -114.7425634,
+            36.0141684
+          ],
+          [
+            -114.7428542,
+            36.0140387
+          ],
+          [
+            -114.7430053,
+            36.013962
+          ],
+          [
+            -114.7430807,
+            36.0138994
+          ],
+          [
+            -114.7431262,
+            36.0138334
+          ],
+          [
+            -114.7431365,
+            36.0137654
+          ],
+          [
+            -114.7431109,
+            36.0136886
+          ],
+          [
+            -114.7430831,
+            36.0136456
+          ],
+          [
+            -114.7430499,
+            36.0136025
+          ],
+          [
+            -114.7430001,
+            36.0135608
+          ],
+          [
+            -114.742941,
+            36.0135307
+          ],
+          [
+            -114.7428587,
+            36.0135152
+          ],
+          [
+            -114.7427742,
+            36.0135271
+          ],
+          [
+            -114.7427083,
+            36.0135574
+          ],
+          [
+            -114.7425229,
+            36.0136741
+          ],
+          [
+            -114.7422772,
+            36.0139068
+          ],
+          [
+            -114.7421674,
+            36.0140119
+          ],
+          [
+            -114.741985,
+            36.0141924
+          ],
+          [
+            -114.7418314,
+            36.014345
+          ],
+          [
+            -114.7416055,
+            36.0145857
+          ],
+          [
+            -114.7413339,
+            36.0149072
+          ],
+          [
+            -114.7412297,
+            36.0150127
+          ],
+          [
+            -114.7409949,
+            36.0152173
+          ]
+        ]
+      },
+      "id": "way/544923092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/573731119",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "destination": "Boulder City",
+        "destination:ref": "US 93 BUS North",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "layer": "1",
+        "maxspeed": "35 mph",
+        "oneway": "yes",
+        "ref": "US 93 Business"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7745987,
+            36.0120642
+          ],
+          [
+            -114.7748353,
+            36.0119801
+          ]
+        ]
+      },
+      "id": "way/573731119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/573731120",
+        "bicycle": "yes",
+        "destination": "Boulder City",
+        "destination:ref": "US 93 BUS North",
+        "destination:street": "Boulder City Parkway",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "35 mph",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "ref": "US 93 Business"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7705208,
+            36.011456
+          ],
+          [
+            -114.7709558,
+            36.0116454
+          ],
+          [
+            -114.7713095,
+            36.0117999
+          ],
+          [
+            -114.7717678,
+            36.0119886
+          ],
+          [
+            -114.7723581,
+            36.0121413
+          ],
+          [
+            -114.7726281,
+            36.0121968
+          ],
+          [
+            -114.7728874,
+            36.0122244
+          ],
+          [
+            -114.7733364,
+            36.0122256
+          ],
+          [
+            -114.7737688,
+            36.0122134
+          ],
+          [
+            -114.7741461,
+            36.0121665
+          ],
+          [
+            -114.7745987,
+            36.0120642
+          ]
+        ]
+      },
+      "id": "way/573731120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/573731121",
+        "bicycle": "yes",
+        "destination": "Boulder City",
+        "destination:ref": "US 93 BUS North",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "35 mph",
+        "oneway": "yes",
+        "ref": "US 93 Business"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7748353,
+            36.0119801
+          ],
+          [
+            -114.7750852,
+            36.0118735
+          ],
+          [
+            -114.7755282,
+            36.0116453
+          ],
+          [
+            -114.7759679,
+            36.0114253
+          ],
+          [
+            -114.7767211,
+            36.0110681
+          ]
+        ]
+      },
+      "id": "way/573731121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/590629983",
+        "bicycle": "yes",
+        "destination": "Kingman",
+        "destination:ref": "I 11 South;US 93 South",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "55 mph",
+        "oneway": "yes",
+        "ref": "US 93 Business"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7738658,
+            36.0108085
+          ],
+          [
+            -114.7737672,
+            36.0109041
+          ],
+          [
+            -114.7737325,
+            36.0109263
+          ],
+          [
+            -114.7736627,
+            36.0109621
+          ],
+          [
+            -114.7733255,
+            36.0110237
+          ],
+          [
+            -114.7728157,
+            36.0110935
+          ],
+          [
+            -114.7722584,
+            36.0111328
+          ],
+          [
+            -114.7718757,
+            36.0111437
+          ],
+          [
+            -114.7715494,
+            36.0111372
+          ],
+          [
+            -114.7711326,
+            36.011113
+          ],
+          [
+            -114.7705161,
+            36.0110241
+          ],
+          [
+            -114.7699238,
+            36.0108896
+          ],
+          [
+            -114.769276,
+            36.0107084
+          ],
+          [
+            -114.7689501,
+            36.0106141
+          ]
+        ]
+      },
+      "id": "way/590629983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/603986053",
+        "NHS": "Interstate",
+        "bicycle": "yes",
+        "destination:lanes": "none|none;Boulder City",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "paved",
+        "turn:lanes": "none|through;slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7674066,
+            36.0101492
+          ],
+          [
+            -114.7686677,
+            36.0106175
+          ]
+        ]
+      },
+      "id": "way/603986053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/603986067",
+        "NHS": "Interstate",
+        "bicycle": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7689501,
+            36.0106141
+          ],
+          [
+            -114.7674549,
+            36.0100305
+          ]
+        ]
+      },
+      "id": "way/603986067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/609784916",
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "name": "Boulder City Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7795423,
+            36.0085423
+          ],
+          [
+            -114.7791745,
+            36.0089515
+          ],
+          [
+            -114.7787451,
+            36.0093298
+          ],
+          [
+            -114.7782478,
+            36.0096805
+          ],
+          [
+            -114.7776079,
+            36.010119
+          ],
+          [
+            -114.777297,
+            36.0103286
+          ],
+          [
+            -114.7769578,
+            36.0105223
+          ],
+          [
+            -114.7766803,
+            36.0106553
+          ],
+          [
+            -114.7763991,
+            36.010762
+          ],
+          [
+            -114.7761191,
+            36.0108593
+          ],
+          [
+            -114.7758417,
+            36.0109544
+          ],
+          [
+            -114.7756197,
+            36.0110295
+          ],
+          [
+            -114.7753949,
+            36.0110916
+          ],
+          [
+            -114.7751274,
+            36.011162
+          ],
+          [
+            -114.7748381,
+            36.0112275
+          ],
+          [
+            -114.7745352,
+            36.0112779
+          ],
+          [
+            -114.7744287,
+            36.0112927
+          ]
+        ]
+      },
+      "id": "way/609784916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/609785783",
+        "NHS": "Interstate",
+        "bicycle": "no",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "name": "Boulder City Bypass;Purple Heart Highway",
+        "oneway": "yes",
+        "ref": "I 11;US 93",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7744755,
+            36.0113862
+          ],
+          [
+            -114.7745814,
+            36.0113702
+          ],
+          [
+            -114.7748704,
+            36.0113199
+          ],
+          [
+            -114.7752373,
+            36.0112435
+          ],
+          [
+            -114.7756099,
+            36.0111441
+          ],
+          [
+            -114.7759596,
+            36.0110335
+          ],
+          [
+            -114.7762705,
+            36.0109347
+          ],
+          [
+            -114.7765818,
+            36.0108187
+          ],
+          [
+            -114.7768795,
+            36.0106898
+          ],
+          [
+            -114.7772208,
+            36.0105268
+          ],
+          [
+            -114.7776322,
+            36.01028
+          ],
+          [
+            -114.7780709,
+            36.0099762
+          ],
+          [
+            -114.7784942,
+            36.0096833
+          ],
+          [
+            -114.779036,
+            36.0092914
+          ],
+          [
+            -114.7793341,
+            36.0090403
+          ]
+        ]
+      },
+      "id": "way/609785783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/741780979",
+        "highway": "tertiary",
+        "maxspeed": "35 mph",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "ref": "NV 172"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7742521,
+            36.0123771
+          ],
+          [
+            -114.7733004,
+            36.01244
+          ],
+          [
+            -114.7715709,
+            36.0125543
+          ],
+          [
+            -114.7712825,
+            36.0125565
+          ],
+          [
+            -114.7710628,
+            36.0125372
+          ],
+          [
+            -114.7708453,
+            36.0124928
+          ],
+          [
+            -114.7705943,
+            36.0124211
+          ],
+          [
+            -114.7702551,
+            36.0122883
+          ],
+          [
+            -114.7685388,
+            36.0115171
+          ],
+          [
+            -114.7682739,
+            36.0114201
+          ],
+          [
+            -114.768003,
+            36.0113433
+          ],
+          [
+            -114.767821,
+            36.0113214
+          ],
+          [
+            -114.7676624,
+            36.0113205
+          ],
+          [
+            -114.7673046,
+            36.0113518
+          ],
+          [
+            -114.7670562,
+            36.0113543
+          ],
+          [
+            -114.7667839,
+            36.01131
+          ],
+          [
+            -114.7666109,
+            36.0112531
+          ],
+          [
+            -114.7664332,
+            36.0111717
+          ],
+          [
+            -114.7662576,
+            36.0110574
+          ],
+          [
+            -114.7660593,
+            36.0108772
+          ],
+          [
+            -114.7659048,
+            36.0106884
+          ],
+          [
+            -114.7657583,
+            36.0105638
+          ],
+          [
+            -114.7656215,
+            36.0104827
+          ],
+          [
+            -114.7654611,
+            36.0104208
+          ],
+          [
+            -114.7652739,
+            36.010372
+          ],
+          [
+            -114.7650862,
+            36.0103538
+          ],
+          [
+            -114.7649058,
+            36.0103615
+          ],
+          [
+            -114.764712,
+            36.0104116
+          ],
+          [
+            -114.7645337,
+            36.0104908
+          ],
+          [
+            -114.7644154,
+            36.0105637
+          ],
+          [
+            -114.7643074,
+            36.010656
+          ],
+          [
+            -114.7640965,
+            36.0108805
+          ],
+          [
+            -114.7639191,
+            36.0110421
+          ],
+          [
+            -114.7637365,
+            36.0111313
+          ],
+          [
+            -114.7635648,
+            36.0111812
+          ],
+          [
+            -114.7633048,
+            36.0112194
+          ],
+          [
+            -114.7630253,
+            36.0112378
+          ],
+          [
+            -114.7628768,
+            36.0112719
+          ],
+          [
+            -114.7627294,
+            36.0113232
+          ],
+          [
+            -114.7626077,
+            36.0113873
+          ],
+          [
+            -114.7624848,
+            36.0114756
+          ],
+          [
+            -114.7623658,
+            36.0115844
+          ],
+          [
+            -114.7622532,
+            36.0117552
+          ],
+          [
+            -114.7621675,
+            36.0119551
+          ],
+          [
+            -114.7620807,
+            36.0121692
+          ],
+          [
+            -114.7619789,
+            36.0123266
+          ],
+          [
+            -114.761906,
+            36.0124124
+          ],
+          [
+            -114.7618182,
+            36.0124941
+          ],
+          [
+            -114.7616227,
+            36.0126173
+          ],
+          [
+            -114.7614387,
+            36.0127036
+          ],
+          [
+            -114.7611337,
+            36.0128099
+          ],
+          [
+            -114.7609126,
+            36.0128914
+          ],
+          [
+            -114.7606989,
+            36.012997
+          ],
+          [
+            -114.760554,
+            36.0131022
+          ],
+          [
+            -114.7604239,
+            36.0132379
+          ],
+          [
+            -114.7603418,
+            36.0133576
+          ],
+          [
+            -114.7602824,
+            36.0134687
+          ],
+          [
+            -114.7602054,
+            36.013671
+          ],
+          [
+            -114.7600574,
+            36.0141741
+          ],
+          [
+            -114.7599896,
+            36.014371
+          ],
+          [
+            -114.7599499,
+            36.0144666
+          ],
+          [
+            -114.7598996,
+            36.0145504
+          ],
+          [
+            -114.7597816,
+            36.0146948
+          ],
+          [
+            -114.7596852,
+            36.0147908
+          ],
+          [
+            -114.7595682,
+            36.0148928
+          ],
+          [
+            -114.7594476,
+            36.0149837
+          ],
+          [
+            -114.7593085,
+            36.0150599
+          ],
+          [
+            -114.7591464,
+            36.0151344
+          ],
+          [
+            -114.7589828,
+            36.0151877
+          ],
+          [
+            -114.7587982,
+            36.0152355
+          ],
+          [
+            -114.758617,
+            36.0152606
+          ],
+          [
+            -114.7584531,
+            36.0152636
+          ],
+          [
+            -114.7582953,
+            36.0152598
+          ],
+          [
+            -114.758065,
+            36.0152336
+          ]
+        ]
+      },
+      "id": "way/741780979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/741780980",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "45 mph",
+        "name": "Boulder City Parkway",
+        "old_ref": "US 93;US 466",
+        "oneway": "yes",
+        "ref": "US 93 BUS"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.775225,
+            36.0107071
+          ],
+          [
+            -114.7750662,
+            36.0107415
+          ],
+          [
+            -114.774613,
+            36.010809
+          ],
+          [
+            -114.7745142,
+            36.0108124
+          ],
+          [
+            -114.7744447,
+            36.0108088
+          ],
+          [
+            -114.7743984,
+            36.0107996
+          ],
+          [
+            -114.7742572,
+            36.0107452
+          ]
+        ]
+      },
+      "id": "way/741780980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/741780981",
+        "highway": "primary",
+        "junction": "roundabout",
+        "lanes": "1",
+        "maxspeed": "15 mph",
+        "oneway": "yes",
+        "ref": "US 93 Business;NV 172",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7740186,
+            36.0110454
+          ],
+          [
+            -114.7740763,
+            36.0110529
+          ],
+          [
+            -114.7741345,
+            36.0110484
+          ],
+          [
+            -114.7741895,
+            36.0110322
+          ],
+          [
+            -114.7742376,
+            36.0110053
+          ],
+          [
+            -114.7742824,
+            36.0109606
+          ],
+          [
+            -114.7743082,
+            36.010907
+          ],
+          [
+            -114.7743126,
+            36.0108496
+          ],
+          [
+            -114.774295,
+            36.0107939
+          ],
+          [
+            -114.7742572,
+            36.0107452
+          ],
+          [
+            -114.7742028,
+            36.0107082
+          ],
+          [
+            -114.774137,
+            36.0106863
+          ],
+          [
+            -114.7740957,
+            36.0106816
+          ],
+          [
+            -114.774054,
+            36.0106829
+          ],
+          [
+            -114.7740133,
+            36.0106903
+          ],
+          [
+            -114.7739737,
+            36.010704
+          ],
+          [
+            -114.7739381,
+            36.0107235
+          ],
+          [
+            -114.7739075,
+            36.010748
+          ],
+          [
+            -114.7738831,
+            36.0107767
+          ],
+          [
+            -114.7738658,
+            36.0108085
+          ],
+          [
+            -114.7738544,
+            36.0108572
+          ],
+          [
+            -114.7738593,
+            36.0109066
+          ],
+          [
+            -114.7738801,
+            36.0109531
+          ],
+          [
+            -114.7739154,
+            36.0109936
+          ],
+          [
+            -114.7739627,
+            36.0110251
+          ],
+          [
+            -114.7740186,
+            36.0110454
+          ]
+        ]
+      },
+      "id": "way/741780981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/742662194",
+        "highway": "tertiary",
+        "lanes": "1",
+        "name": "Hoover Dam Access Road",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7537541,
+            36.014045
+          ],
+          [
+            -114.7536418,
+            36.0140806
+          ],
+          [
+            -114.7533841,
+            36.0142006
+          ],
+          [
+            -114.7533237,
+            36.0142696
+          ],
+          [
+            -114.7532451,
+            36.0143072
+          ],
+          [
+            -114.7530889,
+            36.0143456
+          ],
+          [
+            -114.7528479,
+            36.0144587
+          ],
+          [
+            -114.7526166,
+            36.0146006
+          ],
+          [
+            -114.7524317,
+            36.0147093
+          ],
+          [
+            -114.7521215,
+            36.0149662
+          ],
+          [
+            -114.7518771,
+            36.015252
+          ]
+        ]
+      },
+      "id": "way/742662194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/742662196",
+        "highway": "tertiary",
+        "lanes": "1",
+        "name": "Hoover Dam Access Road",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7551459,
+            36.0138691
+          ],
+          [
+            -114.7550894,
+            36.0138029
+          ],
+          [
+            -114.7550144,
+            36.0137566
+          ],
+          [
+            -114.7548872,
+            36.0137079
+          ],
+          [
+            -114.7547688,
+            36.0136962
+          ],
+          [
+            -114.7543833,
+            36.0136981
+          ],
+          [
+            -114.7541571,
+            36.013772
+          ],
+          [
+            -114.7540659,
+            36.0137937
+          ],
+          [
+            -114.7539855,
+            36.0138306
+          ],
+          [
+            -114.7538233,
+            36.0139216
+          ],
+          [
+            -114.7534692,
+            36.0141032
+          ],
+          [
+            -114.7533841,
+            36.0142006
+          ]
+        ]
+      },
+      "id": "way/742662196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/742717055",
+        "highway": "tertiary",
+        "lanes": "1",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "oneway": "yes",
+        "unsigned_ref": "AZ 93X"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.735467,
+            36.0135153
+          ],
+          [
+            -114.7354655,
+            36.0134968
+          ],
+          [
+            -114.735461,
+            36.0134786
+          ],
+          [
+            -114.7354443,
+            36.0134517
+          ],
+          [
+            -114.7354145,
+            36.0134201
+          ],
+          [
+            -114.7353763,
+            36.0133876
+          ],
+          [
+            -114.7353414,
+            36.0133696
+          ],
+          [
+            -114.7352936,
+            36.0133558
+          ],
+          [
+            -114.7352551,
+            36.0133515
+          ],
+          [
+            -114.7352238,
+            36.013352
+          ],
+          [
+            -114.7351905,
+            36.0133566
+          ],
+          [
+            -114.7351489,
+            36.0133713
+          ],
+          [
+            -114.7351109,
+            36.0133934
+          ],
+          [
+            -114.7350677,
+            36.0134176
+          ],
+          [
+            -114.7349975,
+            36.0134792
+          ],
+          [
+            -114.7349293,
+            36.013542
+          ],
+          [
+            -114.7349092,
+            36.0135562
+          ],
+          [
+            -114.7347654,
+            36.0136445
+          ],
+          [
+            -114.7347458,
+            36.0136788
+          ]
+        ]
+      },
+      "id": "way/742717055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/742717057",
+        "highway": "tertiary",
+        "lanes": "1",
+        "name": "Hoover Dam Access Road",
+        "oneway": "yes",
+        "unsigned_ref": "AZ 93X"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7347458,
+            36.0136788
+          ],
+          [
+            -114.7347887,
+            36.013674
+          ],
+          [
+            -114.7349701,
+            36.0135862
+          ],
+          [
+            -114.7350618,
+            36.0135361
+          ],
+          [
+            -114.735181,
+            36.013479
+          ],
+          [
+            -114.7352335,
+            36.0134607
+          ],
+          [
+            -114.7352737,
+            36.0134553
+          ],
+          [
+            -114.7353229,
+            36.0134583
+          ],
+          [
+            -114.7353631,
+            36.0134683
+          ],
+          [
+            -114.7353877,
+            36.0134799
+          ],
+          [
+            -114.7354059,
+            36.0134893
+          ],
+          [
+            -114.735425,
+            36.0134978
+          ],
+          [
+            -114.7354455,
+            36.0135063
+          ],
+          [
+            -114.735467,
+            36.0135153
+          ]
+        ]
+      },
+      "id": "way/742717057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/743457022",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "15 mph",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "ref": "NV 172"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7569787,
+            36.0148887
+          ],
+          [
+            -114.7559644,
+            36.0145678
+          ]
+        ]
+      },
+      "id": "way/743457022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/743457023",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.747783,
+            36.0155572
+          ],
+          [
+            -114.7476114,
+            36.0155577
+          ],
+          [
+            -114.7474225,
+            36.0155759
+          ],
+          [
+            -114.7472738,
+            36.0155995
+          ],
+          [
+            -114.7471457,
+            36.0156254
+          ],
+          [
+            -114.7470176,
+            36.0156632
+          ],
+          [
+            -114.7468638,
+            36.0157144
+          ]
+        ]
+      },
+      "id": "way/743457023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/743457024",
+        "highway": "tertiary",
+        "lanes": "3",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7468638,
+            36.0157144
+          ],
+          [
+            -114.7467254,
+            36.0157607
+          ],
+          [
+            -114.7465314,
+            36.0158172
+          ],
+          [
+            -114.7463332,
+            36.0158749
+          ]
+        ]
+      },
+      "id": "way/743457024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/743457025",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7463332,
+            36.0158749
+          ],
+          [
+            -114.7461645,
+            36.0159291
+          ],
+          [
+            -114.7454528,
+            36.0161712
+          ],
+          [
+            -114.7451373,
+            36.0162709
+          ],
+          [
+            -114.7450161,
+            36.0163092
+          ],
+          [
+            -114.7447904,
+            36.0163706
+          ],
+          [
+            -114.7446732,
+            36.0163936
+          ],
+          [
+            -114.7445976,
+            36.0164057
+          ],
+          [
+            -114.7444201,
+            36.0164274
+          ],
+          [
+            -114.7442357,
+            36.0164277
+          ],
+          [
+            -114.7439948,
+            36.0164081
+          ],
+          [
+            -114.7435638,
+            36.0163754
+          ]
+        ]
+      },
+      "id": "way/743457025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/743457026",
+        "highway": "tertiary",
+        "lanes": "3",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7435638,
+            36.0163754
+          ],
+          [
+            -114.7432225,
+            36.0163442
+          ]
+        ]
+      },
+      "id": "way/743457026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/743457027",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7432225,
+            36.0163442
+          ],
+          [
+            -114.7430314,
+            36.0163267
+          ],
+          [
+            -114.7428159,
+            36.0162957
+          ],
+          [
+            -114.7426372,
+            36.0162524
+          ],
+          [
+            -114.7424992,
+            36.0161902
+          ],
+          [
+            -114.7423821,
+            36.0161111
+          ],
+          [
+            -114.7422946,
+            36.0160312
+          ],
+          [
+            -114.7418244,
+            36.0155657
+          ],
+          [
+            -114.7417148,
+            36.0154319
+          ],
+          [
+            -114.7416591,
+            36.015322
+          ],
+          [
+            -114.7416421,
+            36.0152151
+          ],
+          [
+            -114.7416466,
+            36.0151082
+          ],
+          [
+            -114.7416733,
+            36.0149885
+          ],
+          [
+            -114.7417318,
+            36.0148531
+          ],
+          [
+            -114.7418344,
+            36.0146991
+          ],
+          [
+            -114.7420538,
+            36.0144899
+          ],
+          [
+            -114.742311,
+            36.0143029
+          ]
+        ]
+      },
+      "id": "way/743457027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/746055186",
+        "highway": "tertiary",
+        "layer": "1",
+        "name": "Hoover Dam Access Road",
+        "name:de": "Hoover-Talsperre",
+        "old_ref": "US 93;US 466",
+        "unsigned_ref": "AZ 93X"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7372141,
+            36.0162082
+          ],
+          [
+            -114.7370706,
+            36.0160635
+          ],
+          [
+            -114.7369594,
+            36.0159071
+          ],
+          [
+            -114.7368701,
+            36.0157367
+          ],
+          [
+            -114.7368027,
+            36.0155095
+          ],
+          [
+            -114.7367855,
+            36.0153658
+          ],
+          [
+            -114.7367892,
+            36.0152173
+          ],
+          [
+            -114.7368045,
+            36.0151279
+          ],
+          [
+            -114.736839,
+            36.0150073
+          ],
+          [
+            -114.7368671,
+            36.0149192
+          ],
+          [
+            -114.7368853,
+            36.014846
+          ],
+          [
+            -114.7368842,
+            36.0148018
+          ],
+          [
+            -114.7368779,
+            36.0147563
+          ]
+        ]
+      },
+      "id": "way/746055186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/976804593",
+        "highway": "unclassified",
+        "lanes": "2",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "unsigned_ref": "AZ 93X"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7310279,
+            36.0134748
+          ],
+          [
+            -114.7311994,
+            36.0134695
+          ],
+          [
+            -114.7312628,
+            36.0134675
+          ]
+        ]
+      },
+      "id": "way/976804593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1087810584",
+        "NHS": "STRAHNET",
+        "adot_name": "Hoover Dam-Kingman Highway",
+        "bicycle": "yes",
+        "fut_ref": "I 11",
+        "hgv": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "name": "Hoover Dam Bypass",
+        "oneway": "yes",
+        "ref": "US 93",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7391461,
+            36.0114018
+          ],
+          [
+            -114.7382726,
+            36.010998
+          ],
+          [
+            -114.7378011,
+            36.0107941
+          ],
+          [
+            -114.737341,
+            36.0106146
+          ],
+          [
+            -114.7369949,
+            36.0105
+          ]
+        ]
+      },
+      "id": "way/1087810584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1156159485",
+        "highway": "tertiary",
+        "lanes": "1",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7535352,
+            36.0143646
+          ],
+          [
+            -114.7536119,
+            36.0143577
+          ],
+          [
+            -114.7536872,
+            36.0143506
+          ],
+          [
+            -114.7537888,
+            36.0143392
+          ],
+          [
+            -114.7539616,
+            36.0143194
+          ],
+          [
+            -114.7540777,
+            36.0143128
+          ],
+          [
+            -114.7541852,
+            36.0143081
+          ],
+          [
+            -114.7542648,
+            36.0143081
+          ],
+          [
+            -114.7543042,
+            36.0143081
+          ],
+          [
+            -114.7544356,
+            36.0143123
+          ],
+          [
+            -114.7546241,
+            36.0143204
+          ],
+          [
+            -114.7547823,
+            36.0143298
+          ],
+          [
+            -114.7548915,
+            36.0143378
+          ],
+          [
+            -114.7550053,
+            36.0143506
+          ],
+          [
+            -114.7551209,
+            36.014368
+          ],
+          [
+            -114.7551835,
+            36.0143791
+          ],
+          [
+            -114.7552429,
+            36.0143893
+          ],
+          [
+            -114.7553643,
+            36.0144162
+          ],
+          [
+            -114.7554712,
+            36.0144389
+          ],
+          [
+            -114.7555418,
+            36.0144497
+          ],
+          [
+            -114.7559644,
+            36.0145678
+          ]
+        ]
+      },
+      "id": "way/1156159485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1192353668",
+        "highway": "tertiary",
+        "maxspeed": "15 mph",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "ref": "NV 172"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.758065,
+            36.0152336
+          ],
+          [
+            -114.7577959,
+            36.0151731
+          ]
+        ]
+      },
+      "id": "way/1192353668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1192353670",
+        "highway": "tertiary",
+        "maxspeed": "15 mph",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "oneway": "yes",
+        "ref": "NV 172"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7574047,
+            36.0150932
+          ],
+          [
+            -114.7577959,
+            36.0151731
+          ]
+        ]
+      },
+      "id": "way/1192353670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1192353671",
+        "highway": "tertiary",
+        "maxspeed": "15 mph",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "oneway": "yes",
+        "ref": "NV 172"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7577959,
+            36.0151731
+          ],
+          [
+            -114.7577042,
+            36.0151264
+          ],
+          [
+            -114.7576071,
+            36.0150797
+          ],
+          [
+            -114.7574707,
+            36.0149893
+          ]
+        ]
+      },
+      "id": "way/1192353671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1192353674",
+        "highway": "tertiary",
+        "lanes": "3",
+        "maxspeed": "15 mph",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "oneway": "yes",
+        "ref": "NV 172"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7569787,
+            36.0148887
+          ],
+          [
+            -114.7571224,
+            36.0149751
+          ],
+          [
+            -114.7571953,
+            36.0150392
+          ]
+        ]
+      },
+      "id": "way/1192353674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1192356377",
+        "highway": "tertiary",
+        "lanes": "1",
+        "name": "Hoover Dam Access Road",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7559644,
+            36.0145678
+          ],
+          [
+            -114.7558935,
+            36.0145079
+          ],
+          [
+            -114.7558393,
+            36.014462
+          ],
+          [
+            -114.7557322,
+            36.0144112
+          ],
+          [
+            -114.7556,
+            36.0143464
+          ],
+          [
+            -114.7554198,
+            36.0141805
+          ],
+          [
+            -114.7553163,
+            36.0140877
+          ],
+          [
+            -114.7551922,
+            36.0139189
+          ],
+          [
+            -114.7551459,
+            36.0138691
+          ]
+        ]
+      },
+      "id": "way/1192356377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1192356378",
+        "highway": "tertiary",
+        "lanes": "1",
+        "name": "Hoover Dam Access Road",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7558935,
+            36.0145079
+          ],
+          [
+            -114.755624,
+            36.014405
+          ],
+          [
+            -114.755519,
+            36.014335
+          ],
+          [
+            -114.7553136,
+            36.0141686
+          ],
+          [
+            -114.7552058,
+            36.0140472
+          ]
+        ]
+      },
+      "id": "way/1192356378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1192356379",
+        "highway": "tertiary",
+        "lanes": "1",
+        "name": "Hoover Dam Access Road",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7552058,
+            36.0140472
+          ],
+          [
+            -114.7550248,
+            36.0139633
+          ],
+          [
+            -114.754936,
+            36.0139295
+          ],
+          [
+            -114.7548395,
+            36.0139127
+          ],
+          [
+            -114.7542959,
+            36.0139014
+          ],
+          [
+            -114.7541862,
+            36.0139054
+          ],
+          [
+            -114.7540637,
+            36.0139304
+          ],
+          [
+            -114.7539274,
+            36.0139868
+          ],
+          [
+            -114.7538185,
+            36.0140808
+          ]
+        ]
+      },
+      "id": "way/1192356379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1192356380",
+        "highway": "tertiary",
+        "lanes": "1",
+        "name": "Hoover Dam Access Road",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7552058,
+            36.0140472
+          ],
+          [
+            -114.7550452,
+            36.0139126
+          ],
+          [
+            -114.7549129,
+            36.0138532
+          ]
+        ]
+      },
+      "id": "way/1192356380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1192356381",
+        "highway": "tertiary",
+        "name": "Hoover Dam Access Road",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.754738,
+            36.0138649
+          ],
+          [
+            -114.754399,
+            36.0138606
+          ],
+          [
+            -114.7541956,
+            36.0138631
+          ],
+          [
+            -114.7540701,
+            36.0138833
+          ],
+          [
+            -114.753967,
+            36.0139237
+          ],
+          [
+            -114.7538516,
+            36.0140078
+          ]
+        ]
+      },
+      "id": "way/1192356381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1192356382",
+        "highway": "tertiary",
+        "name": "Hoover Dam Access Road",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7548395,
+            36.0139127
+          ],
+          [
+            -114.754738,
+            36.0138649
+          ]
+        ]
+      },
+      "id": "way/1192356382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1192356383",
+        "highway": "tertiary",
+        "name": "Hoover Dam Access Road",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7549129,
+            36.0138532
+          ],
+          [
+            -114.754738,
+            36.0138649
+          ]
+        ]
+      },
+      "id": "way/1192356383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1192356384",
+        "highway": "tertiary",
+        "lanes": "1",
+        "name": "Hoover Dam Access Road",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7549129,
+            36.0138532
+          ],
+          [
+            -114.7547838,
+            36.0138272
+          ],
+          [
+            -114.7543926,
+            36.0138223
+          ],
+          [
+            -114.7541021,
+            36.0138284
+          ],
+          [
+            -114.7539975,
+            36.013861
+          ],
+          [
+            -114.7538476,
+            36.0139579
+          ],
+          [
+            -114.7537541,
+            36.014045
+          ]
+        ]
+      },
+      "id": "way/1192356384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1192356385",
+        "highway": "tertiary",
+        "name": "Hoover Dam Access Road",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7551459,
+            36.0138691
+          ],
+          [
+            -114.7549783,
+            36.0137902
+          ],
+          [
+            -114.7548566,
+            36.0137516
+          ],
+          [
+            -114.754758,
+            36.0137391
+          ],
+          [
+            -114.7544622,
+            36.0137341
+          ],
+          [
+            -114.7543313,
+            36.0137503
+          ],
+          [
+            -114.7541571,
+            36.013772
+          ]
+        ]
+      },
+      "id": "way/1192356385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1192356386",
+        "highway": "tertiary",
+        "name": "Hoover Dam Access Road",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7538516,
+            36.0140078
+          ],
+          [
+            -114.7536792,
+            36.0141417
+          ],
+          [
+            -114.7534901,
+            36.0142177
+          ],
+          [
+            -114.7533237,
+            36.0142696
+          ]
+        ]
+      },
+      "id": "way/1192356386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1192356387",
+        "highway": "tertiary",
+        "name": "Hoover Dam Access Road",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7538185,
+            36.0140808
+          ],
+          [
+            -114.7537302,
+            36.0141732
+          ],
+          [
+            -114.753576,
+            36.0142394
+          ],
+          [
+            -114.7532451,
+            36.0143072
+          ]
+        ]
+      },
+      "id": "way/1192356387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1192356388",
+        "highway": "tertiary",
+        "lanes": "3",
+        "name": "Hoover Dam Access Road",
+        "old_ref": "US 93;US 466",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.7518771,
+            36.015252
+          ],
+          [
+            -114.7521985,
+            36.014963
+          ],
+          [
+            -114.7522458,
+            36.0149218
+          ],
+          [
+            -114.7523223,
+            36.0148539
+          ],
+          [
+            -114.7523991,
+            36.0147957
+          ],
+          [
+            -114.7524825,
+            36.0147371
+          ],
+          [
+            -114.7525954,
+            36.0146669
+          ],
+          [
+            -114.7526895,
+            36.0146232
+          ],
+          [
+            -114.7528435,
+            36.0145603
+          ],
+          [
+            -114.7530022,
+            36.014503
+          ],
+          [
+            -114.7531786,
+            36.0144494
+          ],
+          [
+            -114.7533434,
+            36.014407
+          ],
+          [
+            -114.7535352,
+            36.0143646
+          ]
+        ]
+      },
+      "id": "way/1192356388"
+    }
+  ]
+}

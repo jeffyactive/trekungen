@@ -1,0 +1,7547 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-03-09T01:56:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/31135964",
+        "highway": "footway",
+        "name": "Rim Trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1080598,
+            36.0615728
+          ],
+          [
+            -112.1079839,
+            36.0616232
+          ],
+          [
+            -112.1078576,
+            36.0616567
+          ],
+          [
+            -112.1077331,
+            36.0616645
+          ],
+          [
+            -112.1076448,
+            36.0617146
+          ]
+        ]
+      },
+      "id": "way/31135964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/52495796",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "4",
+        "lanes:backward": "2",
+        "lanes:forward": "2",
+        "maxspeed": "35 mph",
+        "name": "State Route 64",
+        "note:lanes": "1 southbound, 2 northbound",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64",
+        "turn:lanes:forward": "|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.123249,
+            35.9923344
+          ],
+          [
+            -112.1233612,
+            35.9906335
+          ],
+          [
+            -112.1233792,
+            35.9902679
+          ]
+        ]
+      },
+      "id": "way/52495796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119089215",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "45 mph",
+        "name": "State Route 64",
+        "ref": "US 180;AZ 64",
+        "source": "TIGER, Bing",
+        "source:maxspeed": "sign",
+        "surface": "paved",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1232184,
+            35.9860612
+          ],
+          [
+            -112.1232193,
+            35.985778
+          ],
+          [
+            -112.12323,
+            35.985316
+          ],
+          [
+            -112.123244,
+            35.9850557
+          ],
+          [
+            -112.1232552,
+            35.9846385
+          ],
+          [
+            -112.1233127,
+            35.9835197
+          ],
+          [
+            -112.1235152,
+            35.9819661
+          ],
+          [
+            -112.1237002,
+            35.9808737
+          ]
+        ]
+      },
+      "id": "way/119089215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119089218",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1242613,
+            35.9787124
+          ],
+          [
+            -112.1245443,
+            35.9777817
+          ]
+        ]
+      },
+      "id": "way/119089218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119089357",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "65 mph",
+        "name": "State Route 64",
+        "note:lanes": "1 southbound, 2 northbound",
+        "ref": "US 180;AZ 64",
+        "source": "TIGER, Bing",
+        "source:maxspeed": "sign",
+        "surface": "paved",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1301665,
+            35.7682523
+          ],
+          [
+            -112.1302669,
+            35.7673588
+          ],
+          [
+            -112.1305775,
+            35.7648272
+          ],
+          [
+            -112.1307573,
+            35.7635865
+          ],
+          [
+            -112.1308332,
+            35.7626621
+          ],
+          [
+            -112.1308684,
+            35.7618281
+          ],
+          [
+            -112.1308807,
+            35.7599002
+          ],
+          [
+            -112.1309561,
+            35.7530888
+          ],
+          [
+            -112.1309716,
+            35.7496005
+          ],
+          [
+            -112.1310054,
+            35.7461215
+          ]
+        ]
+      },
+      "id": "way/119089357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119089361",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "65 mph",
+        "name": "State Route 64",
+        "ref": "US 180;AZ 64",
+        "source": "TIGER, Bing",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1310054,
+            35.7461215
+          ],
+          [
+            -112.1310651,
+            35.7428528
+          ],
+          [
+            -112.131031,
+            35.742559
+          ],
+          [
+            -112.131049,
+            35.73909
+          ],
+          [
+            -112.131084,
+            35.735214
+          ],
+          [
+            -112.1310945,
+            35.7340596
+          ],
+          [
+            -112.131091,
+            35.733147
+          ],
+          [
+            -112.1311146,
+            35.7315849
+          ],
+          [
+            -112.131134,
+            35.730184
+          ],
+          [
+            -112.13115,
+            35.724645
+          ],
+          [
+            -112.131153,
+            35.723926
+          ],
+          [
+            -112.1311921,
+            35.7199319
+          ],
+          [
+            -112.131209,
+            35.715652
+          ],
+          [
+            -112.1312291,
+            35.7147331
+          ],
+          [
+            -112.1312468,
+            35.713941
+          ],
+          [
+            -112.1312742,
+            35.7131071
+          ],
+          [
+            -112.1313265,
+            35.7123181
+          ],
+          [
+            -112.1314056,
+            35.711482
+          ],
+          [
+            -112.1320815,
+            35.7062452
+          ],
+          [
+            -112.132388,
+            35.703968
+          ],
+          [
+            -112.1328768,
+            35.7005373
+          ],
+          [
+            -112.1331858,
+            35.698456
+          ]
+        ]
+      },
+      "id": "way/119089361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/120454980",
+        "highway": "footway",
+        "name": "Rim Trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1074743,
+            36.0609406
+          ],
+          [
+            -112.1077956,
+            36.0610954
+          ],
+          [
+            -112.1078454,
+            36.0611298
+          ]
+        ]
+      },
+      "id": "way/120454980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/164657886",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "maxspeed": "35 mph",
+        "name": "South Entrance Road",
+        "ref": "AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "Entrance",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "Rd"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1067285,
+            36.0510291
+          ],
+          [
+            -112.1076359,
+            36.0504471
+          ],
+          [
+            -112.1087762,
+            36.0498325
+          ],
+          [
+            -112.1089609,
+            36.0496683
+          ],
+          [
+            -112.1107687,
+            36.048809
+          ],
+          [
+            -112.1120914,
+            36.0481969
+          ],
+          [
+            -112.1131783,
+            36.047797
+          ],
+          [
+            -112.1150074,
+            36.0471133
+          ],
+          [
+            -112.1159789,
+            36.0467062
+          ],
+          [
+            -112.116996,
+            36.0461649
+          ],
+          [
+            -112.1179312,
+            36.0455186
+          ],
+          [
+            -112.1187839,
+            36.044864
+          ],
+          [
+            -112.119451,
+            36.044125
+          ],
+          [
+            -112.1196851,
+            36.0438504
+          ],
+          [
+            -112.1198961,
+            36.0435605
+          ],
+          [
+            -112.1201019,
+            36.0432578
+          ],
+          [
+            -112.1203482,
+            36.0428936
+          ],
+          [
+            -112.1204527,
+            36.0427389
+          ],
+          [
+            -112.12071,
+            36.042358
+          ],
+          [
+            -112.1207356,
+            36.042299
+          ]
+        ]
+      },
+      "id": "way/164657886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/164660026",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "name": "East Rim Drive",
+        "oneway": "yes",
+        "ref": "AZ 64",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim",
+        "tiger:name_base_1": "State Highway 64",
+        "tiger:name_base_2": "State Route 64",
+        "tiger:name_type": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8292586,
+            36.0374582
+          ],
+          [
+            -111.8290961,
+            36.0376455
+          ],
+          [
+            -111.8290255,
+            36.0377504
+          ],
+          [
+            -111.8289551,
+            36.037941
+          ],
+          [
+            -111.8289121,
+            36.0382024
+          ],
+          [
+            -111.8289267,
+            36.0384441
+          ],
+          [
+            -111.8290072,
+            36.0386886
+          ],
+          [
+            -111.8291086,
+            36.0388454
+          ],
+          [
+            -111.8292917,
+            36.0390401
+          ],
+          [
+            -111.829507,
+            36.0392007
+          ],
+          [
+            -111.8297268,
+            36.0392791
+          ],
+          [
+            -111.8299909,
+            36.0393604
+          ],
+          [
+            -111.8302247,
+            36.0393989
+          ],
+          [
+            -111.8304541,
+            36.0394124
+          ],
+          [
+            -111.8306701,
+            36.0393881
+          ],
+          [
+            -111.8309751,
+            36.0393153
+          ],
+          [
+            -111.8313129,
+            36.0391839
+          ]
+        ]
+      },
+      "id": "way/164660026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/164660027",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "maxspeed": "25 mph",
+        "name": "East Rim Drive",
+        "ref": "AZ 64",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim",
+        "tiger:name_base_1": "State Highway 64",
+        "tiger:name_base_2": "State Route 64",
+        "tiger:name_type": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8292586,
+            36.0374582
+          ],
+          [
+            -111.8297601,
+            36.0368621
+          ]
+        ]
+      },
+      "id": "way/164660027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/164660029",
+        "highway": "primary",
+        "name": "East Rim Drive",
+        "oneway": "-1",
+        "ref": "AZ 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8292586,
+            36.0374582
+          ],
+          [
+            -111.8291516,
+            36.0377022
+          ],
+          [
+            -111.8290622,
+            36.0379017
+          ],
+          [
+            -111.8290229,
+            36.0380687
+          ],
+          [
+            -111.8290112,
+            36.0383051
+          ],
+          [
+            -111.8290631,
+            36.0385611
+          ],
+          [
+            -111.829165,
+            36.0387346
+          ],
+          [
+            -111.829283,
+            36.0388994
+          ],
+          [
+            -111.8294064,
+            36.0390165
+          ],
+          [
+            -111.8295797,
+            36.0391238
+          ],
+          [
+            -111.8297246,
+            36.0391923
+          ],
+          [
+            -111.8299177,
+            36.0392583
+          ],
+          [
+            -111.8301194,
+            36.0393065
+          ],
+          [
+            -111.8303717,
+            36.0393275
+          ],
+          [
+            -111.830597,
+            36.0393094
+          ],
+          [
+            -111.8308426,
+            36.0392617
+          ],
+          [
+            -111.8310653,
+            36.0392182
+          ],
+          [
+            -111.8313129,
+            36.0391839
+          ]
+        ]
+      },
+      "id": "way/164660029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170935660",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "45 mph",
+        "name": "South Entrance Road",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;Arizona State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.122562,
+            36.0354579
+          ],
+          [
+            -112.122874,
+            36.033609
+          ],
+          [
+            -112.123042,
+            36.032213
+          ],
+          [
+            -112.1230516,
+            36.030884
+          ],
+          [
+            -112.1230608,
+            36.0289282
+          ],
+          [
+            -112.1229829,
+            36.0262817
+          ],
+          [
+            -112.1228494,
+            36.0242462
+          ],
+          [
+            -112.1227179,
+            36.0224423
+          ],
+          [
+            -112.1225884,
+            36.0214973
+          ],
+          [
+            -112.1224207,
+            36.0206701
+          ],
+          [
+            -112.1223091,
+            36.0202964
+          ],
+          [
+            -112.122244,
+            36.020054
+          ],
+          [
+            -112.1220085,
+            36.0193984
+          ],
+          [
+            -112.1218526,
+            36.018988
+          ],
+          [
+            -112.1213594,
+            36.0178518
+          ],
+          [
+            -112.12104,
+            36.0170793
+          ]
+        ]
+      },
+      "id": "way/170935660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170935661",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "25 mph",
+        "name": "South Entrance Road",
+        "ref": "AZ 64",
+        "source": "TIGER, Bing",
+        "source:maxspeed": "sign",
+        "surface": "concrete",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1218643,
+            35.998347
+          ],
+          [
+            -112.1220096,
+            35.9977062
+          ]
+        ]
+      },
+      "id": "way/170935661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170935666",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "45 mph",
+        "name": "State Route 64",
+        "note:lanes": "1 northbound, 2 southbound",
+        "ref": "US 180;AZ 64",
+        "sidewalk": "no",
+        "source": "TIGER, Bing",
+        "source:maxspeed": "sign",
+        "surface": "paved",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1308321,
+            35.9640718
+          ],
+          [
+            -112.1310923,
+            35.9632786
+          ],
+          [
+            -112.1313971,
+            35.9622379
+          ],
+          [
+            -112.1316298,
+            35.9611699
+          ],
+          [
+            -112.1317862,
+            35.9601582
+          ],
+          [
+            -112.1318938,
+            35.9590199
+          ],
+          [
+            -112.1319324,
+            35.9581472
+          ],
+          [
+            -112.1319259,
+            35.9572792
+          ],
+          [
+            -112.1318693,
+            35.9560953
+          ]
+        ]
+      },
+      "id": "way/170935666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170935667",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "35 mph",
+        "name": "State Route 64",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1391571,
+            35.6543346
+          ],
+          [
+            -112.1392365,
+            35.6537675
+          ],
+          [
+            -112.1392647,
+            35.6535657
+          ],
+          [
+            -112.1393486,
+            35.6529657
+          ]
+        ]
+      },
+      "id": "way/170935667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170935669",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "45 mph",
+        "name": "State Route 64",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64",
+        "turn:lanes:backward": "left|"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1237002,
+            35.9808737
+          ],
+          [
+            -112.1238231,
+            35.980339
+          ]
+        ]
+      },
+      "id": "way/170935669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170935670",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "45 mph",
+        "name": "State Route 64",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1374415,
+            35.6670008
+          ],
+          [
+            -112.1380316,
+            35.6627354
+          ],
+          [
+            -112.1383509,
+            35.6603371
+          ],
+          [
+            -112.1387398,
+            35.6573923
+          ],
+          [
+            -112.1391012,
+            35.6547441
+          ],
+          [
+            -112.1391571,
+            35.6543346
+          ]
+        ]
+      },
+      "id": "way/170935670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170935671",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "65 mph",
+        "name": "State Highway 64",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "State 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1314009,
+            35.9468607
+          ],
+          [
+            -112.1310615,
+            35.9400607
+          ],
+          [
+            -112.1309194,
+            35.9374316
+          ],
+          [
+            -112.1306897,
+            35.9318583
+          ],
+          [
+            -112.130557,
+            35.9289254
+          ],
+          [
+            -112.1304298,
+            35.9264735
+          ],
+          [
+            -112.1303882,
+            35.9255604
+          ],
+          [
+            -112.1300683,
+            35.9187327
+          ],
+          [
+            -112.1295994,
+            35.9088821
+          ],
+          [
+            -112.1295602,
+            35.9068047
+          ],
+          [
+            -112.1295323,
+            35.9046083
+          ],
+          [
+            -112.1296528,
+            35.9007723
+          ],
+          [
+            -112.1298102,
+            35.8983467
+          ],
+          [
+            -112.1299824,
+            35.8966037
+          ],
+          [
+            -112.1302622,
+            35.8940006
+          ],
+          [
+            -112.1308558,
+            35.8901225
+          ],
+          [
+            -112.1313813,
+            35.8870833
+          ],
+          [
+            -112.131566,
+            35.8858433
+          ],
+          [
+            -112.131838,
+            35.8837308
+          ],
+          [
+            -112.1319783,
+            35.8823578
+          ],
+          [
+            -112.1321233,
+            35.8809761
+          ],
+          [
+            -112.1322452,
+            35.8790361
+          ],
+          [
+            -112.1325179,
+            35.8748315
+          ],
+          [
+            -112.1328964,
+            35.8690153
+          ],
+          [
+            -112.1330519,
+            35.8665135
+          ],
+          [
+            -112.133428,
+            35.8611692
+          ],
+          [
+            -112.1335865,
+            35.8583222
+          ],
+          [
+            -112.1336957,
+            35.8564096
+          ],
+          [
+            -112.1337233,
+            35.8551707
+          ],
+          [
+            -112.1336962,
+            35.8538418
+          ],
+          [
+            -112.133598,
+            35.8520515
+          ],
+          [
+            -112.1333843,
+            35.8502705
+          ],
+          [
+            -112.1328792,
+            35.846631
+          ],
+          [
+            -112.1323614,
+            35.8427638
+          ],
+          [
+            -112.1321584,
+            35.8412254
+          ],
+          [
+            -112.1320685,
+            35.8401552
+          ],
+          [
+            -112.1319458,
+            35.8387115
+          ],
+          [
+            -112.1318814,
+            35.8359239
+          ],
+          [
+            -112.1319643,
+            35.8320063
+          ],
+          [
+            -112.1320593,
+            35.8252955
+          ],
+          [
+            -112.1320976,
+            35.822493
+          ],
+          [
+            -112.1320801,
+            35.820144
+          ],
+          [
+            -112.1319986,
+            35.8181855
+          ],
+          [
+            -112.1319265,
+            35.8170173
+          ],
+          [
+            -112.13182,
+            35.8154302
+          ],
+          [
+            -112.1316253,
+            35.8127799
+          ],
+          [
+            -112.1310438,
+            35.8048874
+          ],
+          [
+            -112.1309791,
+            35.8036516
+          ],
+          [
+            -112.1305771,
+            35.7982964
+          ],
+          [
+            -112.1302936,
+            35.7941818
+          ],
+          [
+            -112.1299148,
+            35.7888899
+          ],
+          [
+            -112.1295846,
+            35.7842408
+          ],
+          [
+            -112.1292639,
+            35.7794479
+          ],
+          [
+            -112.1292298,
+            35.7778468
+          ],
+          [
+            -112.1292418,
+            35.7773987
+          ]
+        ]
+      },
+      "id": "way/170935671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170991023",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "1",
+        "maxspeed": "25 mph",
+        "name": "South Entrance Road",
+        "oneway": "yes",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1218643,
+            35.998347
+          ],
+          [
+            -112.1216264,
+            35.9992556
+          ],
+          [
+            -112.1215004,
+            36.0000905
+          ],
+          [
+            -112.1214593,
+            36.0005037
+          ],
+          [
+            -112.1214473,
+            36.0008958
+          ],
+          [
+            -112.121423,
+            36.0011161
+          ],
+          [
+            -112.1213965,
+            36.0013644
+          ]
+        ]
+      },
+      "id": "way/170991023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170991025",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "1",
+        "maxspeed": "25 mph",
+        "name": "South Entrance Road",
+        "oneway": "yes",
+        "ref": "AZ 64",
+        "source:maxspeed": "sign",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1213895,
+            36.0018178
+          ],
+          [
+            -112.1214809,
+            36.0014556
+          ],
+          [
+            -112.1216849,
+            36.0009555
+          ],
+          [
+            -112.1217389,
+            36.0008253
+          ],
+          [
+            -112.1218035,
+            36.0006678
+          ],
+          [
+            -112.1218765,
+            36.0004714
+          ],
+          [
+            -112.1218868,
+            36.0004334
+          ],
+          [
+            -112.1219555,
+            36.0001137
+          ],
+          [
+            -112.1219765,
+            35.9998836
+          ],
+          [
+            -112.121976,
+            35.9997938
+          ],
+          [
+            -112.1219762,
+            35.9997538
+          ],
+          [
+            -112.121965,
+            35.999634
+          ],
+          [
+            -112.1219023,
+            35.9992683
+          ],
+          [
+            -112.1218458,
+            35.9989148
+          ],
+          [
+            -112.1218418,
+            35.9987235
+          ],
+          [
+            -112.1218643,
+            35.998347
+          ]
+        ]
+      },
+      "id": "way/170991025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/171150883",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "maxspeed": "35 mph",
+        "name": "South Entrance Road",
+        "oneway": "yes",
+        "ref": "AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "Entrance",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "Rd"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1067285,
+            36.0510291
+          ],
+          [
+            -112.1064322,
+            36.0512168
+          ],
+          [
+            -112.1060614,
+            36.0515321
+          ],
+          [
+            -112.1057547,
+            36.0518783
+          ],
+          [
+            -112.1056041,
+            36.0520559
+          ]
+        ]
+      },
+      "id": "way/171150883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/171150885",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "25 mph",
+        "name": "East Rim Drive",
+        "oneway": "no",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim",
+        "tiger:name_base_1": "State Highway 64",
+        "tiger:name_base_2": "State Route 64",
+        "tiger:name_type": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1052611,
+            36.0521697
+          ],
+          [
+            -112.1045267,
+            36.051831
+          ],
+          [
+            -112.1036644,
+            36.0514038
+          ],
+          [
+            -112.1034053,
+            36.0512749
+          ],
+          [
+            -112.1031671,
+            36.051159
+          ]
+        ]
+      },
+      "id": "way/171150885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/171152087",
+        "highway": "footway",
+        "name": "Rim Trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1080763,
+            36.0613712
+          ],
+          [
+            -112.108087,
+            36.0614799
+          ],
+          [
+            -112.1080598,
+            36.0615728
+          ],
+          [
+            -112.108165,
+            36.0615759
+          ],
+          [
+            -112.1083358,
+            36.0615848
+          ],
+          [
+            -112.1084001,
+            36.0615891
+          ],
+          [
+            -112.1084801,
+            36.0615944
+          ],
+          [
+            -112.108658,
+            36.0616941
+          ],
+          [
+            -112.1087962,
+            36.0617733
+          ],
+          [
+            -112.1088754,
+            36.0618464
+          ],
+          [
+            -112.1089377,
+            36.0619444
+          ],
+          [
+            -112.1089678,
+            36.0619641
+          ]
+        ]
+      },
+      "id": "way/171152087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/171168227",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "name": "East Rim Drive",
+        "oneway": "yes",
+        "ref": "AZ 64",
+        "tiger:cfcc": "A41"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8304291,
+            36.0356286
+          ],
+          [
+            -111.8300812,
+            36.0361785
+          ],
+          [
+            -111.8300602,
+            36.0362103
+          ],
+          [
+            -111.8299314,
+            36.0365374
+          ],
+          [
+            -111.8298361,
+            36.0366981
+          ],
+          [
+            -111.8297803,
+            36.0367858
+          ],
+          [
+            -111.8297601,
+            36.0368621
+          ]
+        ]
+      },
+      "id": "way/171168227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/171168228",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "65 mph",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim:State Highway 64",
+        "tiger:name_base_1": "East Rim:State Route 64",
+        "tiger:name_base_2": "State Highway 64:State Route 64",
+        "tiger:name_type": "Dr",
+        "tiger:name_type_1": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.7278522,
+            35.9266209
+          ],
+          [
+            -111.7304076,
+            35.9244259
+          ],
+          [
+            -111.7309826,
+            35.9240427
+          ],
+          [
+            -111.7314841,
+            35.9237916
+          ],
+          [
+            -111.7321918,
+            35.9235679
+          ],
+          [
+            -111.7325854,
+            35.9234821
+          ],
+          [
+            -111.7330654,
+            35.9234039
+          ],
+          [
+            -111.7335943,
+            35.9233654
+          ],
+          [
+            -111.7341275,
+            35.9233566
+          ],
+          [
+            -111.737331,
+            35.9232744
+          ],
+          [
+            -111.7402631,
+            35.9232039
+          ],
+          [
+            -111.7423303,
+            35.9231522
+          ],
+          [
+            -111.7430781,
+            35.9231335
+          ],
+          [
+            -111.7438347,
+            35.9231192
+          ],
+          [
+            -111.7443198,
+            35.9231036
+          ],
+          [
+            -111.7448118,
+            35.9230924
+          ],
+          [
+            -111.7454961,
+            35.923072
+          ],
+          [
+            -111.7462027,
+            35.9230602
+          ],
+          [
+            -111.7476327,
+            35.923015
+          ],
+          [
+            -111.7495312,
+            35.9229804
+          ],
+          [
+            -111.751417,
+            35.9229307
+          ],
+          [
+            -111.7530059,
+            35.9228946
+          ],
+          [
+            -111.7545654,
+            35.9228564
+          ]
+        ]
+      },
+      "id": "way/171168228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/171451465",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "maxspeed": "25 mph",
+        "name": "East Rim Drive",
+        "oneway": "yes",
+        "ref": "AZ 64",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim",
+        "tiger:name_base_1": "State Highway 64",
+        "tiger:name_base_2": "State Route 64",
+        "tiger:name_type": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8297601,
+            36.0368621
+          ],
+          [
+            -111.8298616,
+            36.0367823
+          ],
+          [
+            -111.8299571,
+            36.0366894
+          ],
+          [
+            -111.8301347,
+            36.0365268
+          ],
+          [
+            -111.8303021,
+            36.0363618
+          ],
+          [
+            -111.8303642,
+            36.0362786
+          ],
+          [
+            -111.8304348,
+            36.0362031
+          ],
+          [
+            -111.830476,
+            36.0361425
+          ],
+          [
+            -111.8305923,
+            36.0359845
+          ],
+          [
+            -111.8306792,
+            36.0358331
+          ],
+          [
+            -111.830756,
+            36.0356683
+          ],
+          [
+            -111.8307982,
+            36.0355306
+          ],
+          [
+            -111.8308193,
+            36.0354733
+          ],
+          [
+            -111.8309853,
+            36.0350292
+          ],
+          [
+            -111.8311687,
+            36.034652
+          ]
+        ]
+      },
+      "id": "way/171451465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/231035773",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "45 mph",
+        "name": "East Rim Drive",
+        "ref": "AZ 64",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim",
+        "tiger:name_base_1": "State Highway 64",
+        "tiger:name_base_2": "State Route 64",
+        "tiger:name_type": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.0766283,
+            36.0398441
+          ],
+          [
+            -112.0759709,
+            36.0393554
+          ]
+        ]
+      },
+      "id": "way/231035773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/231035774",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "45 mph",
+        "name": "East Rim Drive",
+        "oneway": "no",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim",
+        "tiger:name_base_1": "State Highway 64",
+        "tiger:name_type": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.0692827,
+            36.0348613
+          ],
+          [
+            -112.0687698,
+            36.0345375
+          ],
+          [
+            -112.0683082,
+            36.0341846
+          ],
+          [
+            -112.0678493,
+            36.0337185
+          ],
+          [
+            -112.0673948,
+            36.0331005
+          ],
+          [
+            -112.0670728,
+            36.0323607
+          ],
+          [
+            -112.0654322,
+            36.0276943
+          ],
+          [
+            -112.0652466,
+            36.0271273
+          ],
+          [
+            -112.0651369,
+            36.026693
+          ],
+          [
+            -112.0650472,
+            36.026251
+          ],
+          [
+            -112.0650047,
+            36.0258946
+          ],
+          [
+            -112.065002,
+            36.0255201
+          ],
+          [
+            -112.0650306,
+            36.0249847
+          ],
+          [
+            -112.0651086,
+            36.0244057
+          ],
+          [
+            -112.0654564,
+            36.0221588
+          ],
+          [
+            -112.0662748,
+            36.0167892
+          ],
+          [
+            -112.0663322,
+            36.0161771
+          ],
+          [
+            -112.066325,
+            36.0157024
+          ],
+          [
+            -112.0662514,
+            36.0151123
+          ],
+          [
+            -112.0660884,
+            36.0145456
+          ],
+          [
+            -112.0658688,
+            36.0137824
+          ],
+          [
+            -112.065701,
+            36.013199
+          ],
+          [
+            -112.06535,
+            36.0126438
+          ],
+          [
+            -112.0649915,
+            36.0122405
+          ],
+          [
+            -112.0646667,
+            36.0119933
+          ],
+          [
+            -112.0642999,
+            36.0117671
+          ],
+          [
+            -112.0640225,
+            36.0116405
+          ],
+          [
+            -112.0635914,
+            36.0114903
+          ],
+          [
+            -112.0632008,
+            36.0114021
+          ],
+          [
+            -112.0627377,
+            36.0113549
+          ],
+          [
+            -112.062194,
+            36.0113192
+          ],
+          [
+            -112.0608833,
+            36.011225
+          ],
+          [
+            -112.060424,
+            36.0111615
+          ],
+          [
+            -112.060224,
+            36.0111251
+          ],
+          [
+            -112.0600104,
+            36.0110862
+          ],
+          [
+            -112.0578305,
+            36.0104124
+          ],
+          [
+            -112.0556257,
+            36.0095845
+          ],
+          [
+            -112.0548286,
+            36.0093683
+          ],
+          [
+            -112.054302,
+            36.0092532
+          ],
+          [
+            -112.0539506,
+            36.0091903
+          ],
+          [
+            -112.053215,
+            36.0090577
+          ],
+          [
+            -112.0529016,
+            36.0089876
+          ],
+          [
+            -112.0525592,
+            36.0088947
+          ],
+          [
+            -112.0519164,
+            36.008666
+          ],
+          [
+            -112.0518671,
+            36.0086448
+          ],
+          [
+            -112.0515044,
+            36.0084886
+          ],
+          [
+            -112.0510275,
+            36.0082412
+          ],
+          [
+            -112.050095,
+            36.0076641
+          ],
+          [
+            -112.0456154,
+            36.004861
+          ],
+          [
+            -112.0394636,
+            36.0009921
+          ],
+          [
+            -112.037951,
+            36.0000616
+          ],
+          [
+            -112.0373394,
+            35.9996537
+          ],
+          [
+            -112.0330021,
+            35.9969516
+          ],
+          [
+            -112.0315935,
+            35.9961165
+          ],
+          [
+            -112.0308284,
+            35.9957998
+          ],
+          [
+            -112.0301082,
+            35.9955703
+          ],
+          [
+            -112.0285441,
+            35.9951282
+          ],
+          [
+            -112.0279139,
+            35.9948891
+          ],
+          [
+            -112.0264375,
+            35.994265
+          ],
+          [
+            -112.0259056,
+            35.9940342
+          ],
+          [
+            -112.0253913,
+            35.9938647
+          ],
+          [
+            -112.0248998,
+            35.9937385
+          ],
+          [
+            -112.024316,
+            35.9936457
+          ],
+          [
+            -112.023553,
+            35.9935826
+          ],
+          [
+            -112.0228818,
+            35.9935961
+          ],
+          [
+            -112.0221901,
+            35.993682
+          ],
+          [
+            -112.0216391,
+            35.9937868
+          ],
+          [
+            -112.0208673,
+            35.9940213
+          ],
+          [
+            -112.0203489,
+            35.9942327
+          ],
+          [
+            -112.019492,
+            35.9946367
+          ],
+          [
+            -112.016558,
+            35.9960002
+          ],
+          [
+            -112.0160225,
+            35.9962532
+          ],
+          [
+            -112.0153892,
+            35.9965173
+          ],
+          [
+            -112.0147375,
+            35.9967446
+          ],
+          [
+            -112.0142207,
+            35.9968996
+          ],
+          [
+            -112.013311,
+            35.9971086
+          ],
+          [
+            -112.0125353,
+            35.9972171
+          ],
+          [
+            -112.01157,
+            35.9973016
+          ],
+          [
+            -112.0109318,
+            35.9973105
+          ],
+          [
+            -112.0101276,
+            35.9972656
+          ],
+          [
+            -112.0087455,
+            35.9971315
+          ],
+          [
+            -112.0081272,
+            35.9970607
+          ],
+          [
+            -112.0070971,
+            35.9968143
+          ],
+          [
+            -112.006729,
+            35.9966468
+          ],
+          [
+            -112.0062536,
+            35.9964264
+          ],
+          [
+            -112.0037523,
+            35.9951431
+          ],
+          [
+            -112.0022228,
+            35.9943629
+          ],
+          [
+            -112.0016854,
+            35.9941326
+          ],
+          [
+            -112.0013026,
+            35.9939921
+          ],
+          [
+            -112.0005437,
+            35.9938144
+          ],
+          [
+            -111.99973,
+            35.993654
+          ],
+          [
+            -111.9991169,
+            35.9935248
+          ],
+          [
+            -111.9986446,
+            35.993383
+          ],
+          [
+            -111.9981036,
+            35.9931633
+          ],
+          [
+            -111.997517,
+            35.9928824
+          ],
+          [
+            -111.9969207,
+            35.9925749
+          ],
+          [
+            -111.9962219,
+            35.992152
+          ],
+          [
+            -111.9956569,
+            35.9917597
+          ],
+          [
+            -111.9950596,
+            35.9913217
+          ],
+          [
+            -111.9945089,
+            35.9908917
+          ],
+          [
+            -111.9938635,
+            35.9904062
+          ],
+          [
+            -111.9926325,
+            35.9893547
+          ],
+          [
+            -111.9923963,
+            35.9891149
+          ],
+          [
+            -111.9920914,
+            35.988786
+          ],
+          [
+            -111.9918698,
+            35.9885198
+          ],
+          [
+            -111.9913848,
+            35.9876615
+          ],
+          [
+            -111.991075,
+            35.986996
+          ],
+          [
+            -111.9907814,
+            35.9864702
+          ],
+          [
+            -111.9905063,
+            35.9859051
+          ],
+          [
+            -111.9902377,
+            35.9852423
+          ],
+          [
+            -111.9898126,
+            35.9838187
+          ],
+          [
+            -111.9895782,
+            35.9829619
+          ],
+          [
+            -111.9893491,
+            35.9821294
+          ],
+          [
+            -111.9890947,
+            35.9811914
+          ],
+          [
+            -111.9884929,
+            35.9790576
+          ],
+          [
+            -111.9883386,
+            35.9786402
+          ],
+          [
+            -111.9880725,
+            35.9781995
+          ],
+          [
+            -111.9872662,
+            35.9774011
+          ],
+          [
+            -111.9867042,
+            35.9770562
+          ],
+          [
+            -111.9861329,
+            35.9768169
+          ],
+          [
+            -111.9844943,
+            35.9763138
+          ],
+          [
+            -111.9838232,
+            35.9760973
+          ],
+          [
+            -111.9834214,
+            35.9759446
+          ],
+          [
+            -111.9831619,
+            35.975787
+          ],
+          [
+            -111.9829155,
+            35.9755886
+          ],
+          [
+            -111.982679,
+            35.9753313
+          ],
+          [
+            -111.9825128,
+            35.9751049
+          ],
+          [
+            -111.9823209,
+            35.9746482
+          ],
+          [
+            -111.98207,
+            35.9739842
+          ],
+          [
+            -111.9818732,
+            35.973469
+          ],
+          [
+            -111.9815954,
+            35.9730058
+          ],
+          [
+            -111.9813136,
+            35.9726344
+          ],
+          [
+            -111.9803088,
+            35.9716174
+          ],
+          [
+            -111.9796945,
+            35.9709989
+          ],
+          [
+            -111.9793872,
+            35.9707305
+          ],
+          [
+            -111.9789321,
+            35.9704112
+          ],
+          [
+            -111.9782911,
+            35.9701015
+          ],
+          [
+            -111.9776073,
+            35.969782
+          ],
+          [
+            -111.9771505,
+            35.969569
+          ],
+          [
+            -111.9762359,
+            35.9691526
+          ],
+          [
+            -111.9753425,
+            35.9687664
+          ],
+          [
+            -111.9747789,
+            35.9685825
+          ],
+          [
+            -111.9742257,
+            35.9684646
+          ],
+          [
+            -111.9734039,
+            35.9683468
+          ],
+          [
+            -111.9722393,
+            35.9682099
+          ],
+          [
+            -111.9716819,
+            35.9681887
+          ],
+          [
+            -111.9711748,
+            35.9682146
+          ],
+          [
+            -111.9706296,
+            35.968295
+          ],
+          [
+            -111.9701049,
+            35.9684287
+          ],
+          [
+            -111.9695642,
+            35.9686106
+          ],
+          [
+            -111.9680251,
+            35.969197
+          ],
+          [
+            -111.9667546,
+            35.9696778
+          ],
+          [
+            -111.9661588,
+            35.9699362
+          ],
+          [
+            -111.9657333,
+            35.9701773
+          ],
+          [
+            -111.9653282,
+            35.9704603
+          ],
+          [
+            -111.9650129,
+            35.9707552
+          ],
+          [
+            -111.9646712,
+            35.9711254
+          ],
+          [
+            -111.9642979,
+            35.9716944
+          ],
+          [
+            -111.9640225,
+            35.9722572
+          ],
+          [
+            -111.9637828,
+            35.9727549
+          ],
+          [
+            -111.9635933,
+            35.9731111
+          ],
+          [
+            -111.9633925,
+            35.973383
+          ],
+          [
+            -111.9631372,
+            35.9736955
+          ],
+          [
+            -111.9628991,
+            35.9739558
+          ],
+          [
+            -111.9624425,
+            35.9743697
+          ],
+          [
+            -111.9621331,
+            35.9746178
+          ],
+          [
+            -111.9618877,
+            35.974788
+          ],
+          [
+            -111.9615693,
+            35.9749856
+          ],
+          [
+            -111.9612752,
+            35.9751449
+          ],
+          [
+            -111.9608954,
+            35.9753274
+          ],
+          [
+            -111.9605479,
+            35.9754682
+          ],
+          [
+            -111.9595708,
+            35.975821
+          ],
+          [
+            -111.9589991,
+            35.97602
+          ],
+          [
+            -111.9586478,
+            35.9761602
+          ],
+          [
+            -111.9583186,
+            35.9763131
+          ],
+          [
+            -111.957971,
+            35.9765102
+          ],
+          [
+            -111.9577119,
+            35.976694
+          ],
+          [
+            -111.9574434,
+            35.9769102
+          ],
+          [
+            -111.9571681,
+            35.9771538
+          ],
+          [
+            -111.9570136,
+            35.9773386
+          ],
+          [
+            -111.9564181,
+            35.9780883
+          ],
+          [
+            -111.9561899,
+            35.9783342
+          ],
+          [
+            -111.9559557,
+            35.9785525
+          ],
+          [
+            -111.9555853,
+            35.9788406
+          ],
+          [
+            -111.9551791,
+            35.9791057
+          ],
+          [
+            -111.954383,
+            35.9796232
+          ],
+          [
+            -111.9526218,
+            35.9807769
+          ],
+          [
+            -111.9519836,
+            35.9810697
+          ],
+          [
+            -111.9515892,
+            35.9811816
+          ],
+          [
+            -111.9511657,
+            35.9812816
+          ],
+          [
+            -111.9505185,
+            35.981321
+          ],
+          [
+            -111.94995,
+            35.9812777
+          ],
+          [
+            -111.9495487,
+            35.9811908
+          ],
+          [
+            -111.9490787,
+            35.9810276
+          ],
+          [
+            -111.9487393,
+            35.9808855
+          ],
+          [
+            -111.947874,
+            35.9805059
+          ],
+          [
+            -111.9473414,
+            35.9803033
+          ],
+          [
+            -111.9469775,
+            35.9802049
+          ],
+          [
+            -111.9466131,
+            35.980153
+          ],
+          [
+            -111.9462258,
+            35.9801406
+          ],
+          [
+            -111.9456736,
+            35.9801619
+          ],
+          [
+            -111.9451771,
+            35.9802561
+          ],
+          [
+            -111.9448149,
+            35.980367
+          ],
+          [
+            -111.9444551,
+            35.9805243
+          ],
+          [
+            -111.944054,
+            35.9807541
+          ],
+          [
+            -111.9432702,
+            35.9813203
+          ],
+          [
+            -111.9411115,
+            35.9828789
+          ],
+          [
+            -111.9408533,
+            35.9831055
+          ],
+          [
+            -111.9405821,
+            35.9833896
+          ],
+          [
+            -111.9403666,
+            35.9836714
+          ],
+          [
+            -111.940178,
+            35.9839446
+          ],
+          [
+            -111.9400398,
+            35.9842233
+          ],
+          [
+            -111.9398915,
+            35.9845765
+          ],
+          [
+            -111.9397191,
+            35.9852364
+          ],
+          [
+            -111.9395729,
+            35.9857705
+          ],
+          [
+            -111.9394066,
+            35.9862588
+          ],
+          [
+            -111.9391266,
+            35.9867942
+          ],
+          [
+            -111.9387806,
+            35.987245
+          ],
+          [
+            -111.935676,
+            35.9906676
+          ],
+          [
+            -111.9355904,
+            35.9907619
+          ],
+          [
+            -111.934392,
+            35.9920828
+          ],
+          [
+            -111.9332258,
+            35.993357
+          ],
+          [
+            -111.9313804,
+            35.9953622
+          ],
+          [
+            -111.9272449,
+            35.9999121
+          ],
+          [
+            -111.9260299,
+            36.0012091
+          ],
+          [
+            -111.9259252,
+            36.0012996
+          ],
+          [
+            -111.9254644,
+            36.0016408
+          ],
+          [
+            -111.9251365,
+            36.0018397
+          ],
+          [
+            -111.9247278,
+            36.0020326
+          ],
+          [
+            -111.9242786,
+            36.0022047
+          ],
+          [
+            -111.9235294,
+            36.0024257
+          ],
+          [
+            -111.9229467,
+            36.0025258
+          ],
+          [
+            -111.9183404,
+            36.0035556
+          ],
+          [
+            -111.9177779,
+            36.003735
+          ],
+          [
+            -111.9173158,
+            36.0039264
+          ],
+          [
+            -111.9169075,
+            36.0041616
+          ],
+          [
+            -111.9142647,
+            36.0060524
+          ],
+          [
+            -111.9139545,
+            36.0063435
+          ],
+          [
+            -111.9137472,
+            36.0065916
+          ],
+          [
+            -111.9135832,
+            36.0068333
+          ],
+          [
+            -111.9134392,
+            36.0070941
+          ],
+          [
+            -111.9133376,
+            36.0073616
+          ],
+          [
+            -111.9130272,
+            36.0082076
+          ],
+          [
+            -111.9128474,
+            36.008508
+          ],
+          [
+            -111.9125407,
+            36.0089134
+          ],
+          [
+            -111.9122526,
+            36.0091325
+          ],
+          [
+            -111.9119264,
+            36.0093241
+          ],
+          [
+            -111.9106669,
+            36.0100801
+          ],
+          [
+            -111.9100843,
+            36.0104374
+          ],
+          [
+            -111.9089942,
+            36.0110369
+          ],
+          [
+            -111.9086668,
+            36.0111766
+          ],
+          [
+            -111.9083106,
+            36.0112801
+          ],
+          [
+            -111.9079018,
+            36.01134
+          ],
+          [
+            -111.9070086,
+            36.0114118
+          ],
+          [
+            -111.9056806,
+            36.0115105
+          ],
+          [
+            -111.9052459,
+            36.0114999
+          ],
+          [
+            -111.9049286,
+            36.0114595
+          ],
+          [
+            -111.9045313,
+            36.0113627
+          ],
+          [
+            -111.9040949,
+            36.0111646
+          ],
+          [
+            -111.9022541,
+            36.0102488
+          ],
+          [
+            -111.8984261,
+            36.0082946
+          ],
+          [
+            -111.8969855,
+            36.0075436
+          ],
+          [
+            -111.8965609,
+            36.0073503
+          ],
+          [
+            -111.8962175,
+            36.0072418
+          ],
+          [
+            -111.8958672,
+            36.0071878
+          ],
+          [
+            -111.8955481,
+            36.0071804
+          ],
+          [
+            -111.8952021,
+            36.0072104
+          ],
+          [
+            -111.894873,
+            36.0072937
+          ],
+          [
+            -111.8946412,
+            36.0073908
+          ],
+          [
+            -111.8942594,
+            36.0075814
+          ],
+          [
+            -111.8939531,
+            36.0078568
+          ],
+          [
+            -111.893677,
+            36.0081939
+          ],
+          [
+            -111.8934121,
+            36.0085034
+          ],
+          [
+            -111.8929624,
+            36.0090727
+          ],
+          [
+            -111.892731,
+            36.0092767
+          ],
+          [
+            -111.8924676,
+            36.0093964
+          ],
+          [
+            -111.8922256,
+            36.0094532
+          ],
+          [
+            -111.8919504,
+            36.0094671
+          ],
+          [
+            -111.891713,
+            36.0094309
+          ],
+          [
+            -111.8914644,
+            36.0093415
+          ],
+          [
+            -111.8912337,
+            36.0092074
+          ],
+          [
+            -111.8910436,
+            36.0090334
+          ],
+          [
+            -111.8907024,
+            36.0086164
+          ],
+          [
+            -111.8904444,
+            36.0083918
+          ],
+          [
+            -111.8901735,
+            36.0082338
+          ],
+          [
+            -111.8899173,
+            36.0081306
+          ],
+          [
+            -111.8896432,
+            36.0080561
+          ],
+          [
+            -111.889346,
+            36.0080117
+          ],
+          [
+            -111.8889627,
+            36.0080266
+          ],
+          [
+            -111.888596,
+            36.0080826
+          ],
+          [
+            -111.8881799,
+            36.0082414
+          ],
+          [
+            -111.8868568,
+            36.0087511
+          ],
+          [
+            -111.8854496,
+            36.0092833
+          ],
+          [
+            -111.8849268,
+            36.0094986
+          ],
+          [
+            -111.8846678,
+            36.0096383
+          ],
+          [
+            -111.8843857,
+            36.0098658
+          ],
+          [
+            -111.8838392,
+            36.0103833
+          ],
+          [
+            -111.8835168,
+            36.0106185
+          ],
+          [
+            -111.8832141,
+            36.0107728
+          ],
+          [
+            -111.8828956,
+            36.010901
+          ],
+          [
+            -111.8825476,
+            36.0109955
+          ],
+          [
+            -111.8821564,
+            36.0110454
+          ],
+          [
+            -111.8817072,
+            36.0110549
+          ],
+          [
+            -111.8811128,
+            36.0110706
+          ],
+          [
+            -111.8808481,
+            36.0111135
+          ],
+          [
+            -111.8805603,
+            36.0111979
+          ],
+          [
+            -111.8802628,
+            36.0113021
+          ],
+          [
+            -111.878611,
+            36.0118987
+          ],
+          [
+            -111.8780382,
+            36.0120772
+          ],
+          [
+            -111.8778185,
+            36.0120967
+          ],
+          [
+            -111.8775608,
+            36.0121015
+          ],
+          [
+            -111.8773031,
+            36.0120668
+          ],
+          [
+            -111.8770485,
+            36.0120228
+          ],
+          [
+            -111.8767866,
+            36.0119174
+          ],
+          [
+            -111.8766032,
+            36.0118004
+          ],
+          [
+            -111.8763915,
+            36.0116314
+          ],
+          [
+            -111.8755283,
+            36.0105571
+          ],
+          [
+            -111.8754122,
+            36.0104356
+          ],
+          [
+            -111.8752408,
+            36.010324
+          ],
+          [
+            -111.8750181,
+            36.0102678
+          ],
+          [
+            -111.8747264,
+            36.010279
+          ],
+          [
+            -111.8745351,
+            36.0103517
+          ],
+          [
+            -111.8743722,
+            36.0104728
+          ],
+          [
+            -111.87425,
+            36.0106453
+          ],
+          [
+            -111.8737009,
+            36.0118283
+          ],
+          [
+            -111.8733383,
+            36.0125897
+          ],
+          [
+            -111.8731988,
+            36.0128088
+          ],
+          [
+            -111.8729926,
+            36.0129869
+          ],
+          [
+            -111.8727737,
+            36.0131064
+          ],
+          [
+            -111.8722654,
+            36.0132957
+          ],
+          [
+            -111.8689135,
+            36.0145491
+          ],
+          [
+            -111.8639775,
+            36.0164104
+          ],
+          [
+            -111.8635209,
+            36.016635
+          ],
+          [
+            -111.8632594,
+            36.0168348
+          ],
+          [
+            -111.8630026,
+            36.0170965
+          ],
+          [
+            -111.8626415,
+            36.0177656
+          ],
+          [
+            -111.8622573,
+            36.0185287
+          ],
+          [
+            -111.8619458,
+            36.0190898
+          ],
+          [
+            -111.8617264,
+            36.0193791
+          ],
+          [
+            -111.8614776,
+            36.0196528
+          ],
+          [
+            -111.8610938,
+            36.0199827
+          ],
+          [
+            -111.8587616,
+            36.0218032
+          ],
+          [
+            -111.8584289,
+            36.0220263
+          ],
+          [
+            -111.8580906,
+            36.0222054
+          ],
+          [
+            -111.857581,
+            36.0224197
+          ],
+          [
+            -111.8572024,
+            36.0225542
+          ],
+          [
+            -111.8568669,
+            36.0226999
+          ],
+          [
+            -111.8565257,
+            36.0228873
+          ],
+          [
+            -111.8561743,
+            36.0231509
+          ],
+          [
+            -111.8554893,
+            36.023893
+          ],
+          [
+            -111.8552109,
+            36.0241906
+          ],
+          [
+            -111.8548957,
+            36.0245602
+          ],
+          [
+            -111.8543414,
+            36.0252139
+          ],
+          [
+            -111.8534286,
+            36.0262706
+          ],
+          [
+            -111.8529853,
+            36.0266555
+          ],
+          [
+            -111.8524774,
+            36.0270394
+          ]
+        ]
+      },
+      "id": "way/231035774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318512238",
+        "access": "yes",
+        "highway": "residential",
+        "lanes": "2",
+        "name": "East Wesleyan Avenue",
+        "smoothness": "bad",
+        "surface": "dirt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "Wesleyan",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.147423,
+            35.59948
+          ],
+          [
+            -112.146619,
+            35.599437
+          ],
+          [
+            -112.146515,
+            35.599432
+          ],
+          [
+            -112.145744,
+            35.599438
+          ],
+          [
+            -112.144956,
+            35.599444
+          ],
+          [
+            -112.144681,
+            35.599443
+          ],
+          [
+            -112.143676,
+            35.59944
+          ],
+          [
+            -112.1430571,
+            35.5994338
+          ],
+          [
+            -112.141532,
+            35.599445
+          ],
+          [
+            -112.140333,
+            35.59945
+          ],
+          [
+            -112.139291,
+            35.599451
+          ]
+        ]
+      },
+      "id": "way/318512238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318512260",
+        "access": "yes",
+        "highway": "residential",
+        "lanes": "2",
+        "name": "East Wesleyan Avenue",
+        "smoothness": "bad",
+        "surface": "dirt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "Wesleyan",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "Ave"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.139291,
+            35.599451
+          ],
+          [
+            -112.139248,
+            35.599486
+          ],
+          [
+            -112.138977,
+            35.599536
+          ],
+          [
+            -112.137357,
+            35.599552
+          ],
+          [
+            -112.137052,
+            35.599553
+          ],
+          [
+            -112.1261246,
+            35.5995907
+          ],
+          [
+            -112.1223706,
+            35.5995657
+          ],
+          [
+            -112.1186935,
+            35.5996115
+          ],
+          [
+            -112.1137446,
+            35.599599
+          ],
+          [
+            -112.1123067,
+            35.5996062
+          ]
+        ]
+      },
+      "id": "way/318512260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/351681172",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1298531,
+            35.9662011
+          ],
+          [
+            -112.1297761,
+            35.9662758
+          ],
+          [
+            -112.1295594,
+            35.9666112
+          ],
+          [
+            -112.1293322,
+            35.9669552
+          ],
+          [
+            -112.1292642,
+            35.9671031
+          ],
+          [
+            -112.1291987,
+            35.9673577
+          ],
+          [
+            -112.1291781,
+            35.9675577
+          ],
+          [
+            -112.129128,
+            35.9676605
+          ],
+          [
+            -112.1290431,
+            35.9677404
+          ],
+          [
+            -112.1289609,
+            35.9677806
+          ]
+        ]
+      },
+      "id": "way/351681172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/351681173",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1286512,
+            35.9688163
+          ],
+          [
+            -112.1287032,
+            35.9686412
+          ],
+          [
+            -112.1287649,
+            35.9684479
+          ],
+          [
+            -112.1288407,
+            35.9683237
+          ],
+          [
+            -112.1289177,
+            35.9682587
+          ],
+          [
+            -112.1289769,
+            35.968216
+          ]
+        ]
+      },
+      "id": "way/351681173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/351681174",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1287294,
+            35.9680398
+          ],
+          [
+            -112.1286816,
+            35.9681578
+          ],
+          [
+            -112.1286288,
+            35.9684593
+          ]
+        ]
+      },
+      "id": "way/351681174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/351681175",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "placement": "right_of:2",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64",
+        "turn:lanes": "left||"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1286288,
+            35.9684593
+          ],
+          [
+            -112.1285987,
+            35.9686206
+          ],
+          [
+            -112.1285353,
+            35.9688013
+          ]
+        ]
+      },
+      "id": "way/351681175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/351681180",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1292452,
+            35.9679157
+          ],
+          [
+            -112.1292744,
+            35.9675987
+          ],
+          [
+            -112.1293423,
+            35.9673186
+          ],
+          [
+            -112.1295071,
+            35.9669406
+          ],
+          [
+            -112.1297668,
+            35.9664423
+          ],
+          [
+            -112.1298531,
+            35.9662011
+          ]
+        ]
+      },
+      "id": "way/351681180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/351681181",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "45 mph",
+        "name": "State Route 64",
+        "note:lanes": "1 northbound, 2 southbound",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1298531,
+            35.9662011
+          ],
+          [
+            -112.1300745,
+            35.9657515
+          ],
+          [
+            -112.1304806,
+            35.9649389
+          ],
+          [
+            -112.1305353,
+            35.9647887
+          ],
+          [
+            -112.1308321,
+            35.9640718
+          ]
+        ]
+      },
+      "id": "way/351681181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/351681445",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "55 mph",
+        "name": "State Route 64",
+        "note:lanes": "1 northbound, 2 southbound",
+        "ref": "US 180;AZ 64",
+        "source": "TIGER, Bing",
+        "source:maxspeed": "sign",
+        "surface": "paved",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1318693,
+            35.9560953
+          ],
+          [
+            -112.1317889,
+            35.9544158
+          ],
+          [
+            -112.1317438,
+            35.9536698
+          ],
+          [
+            -112.1316639,
+            35.9523243
+          ],
+          [
+            -112.1314009,
+            35.9468607
+          ]
+        ]
+      },
+      "id": "way/351681445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/363530534",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "1",
+        "maxspeed": "35 mph",
+        "name": "South Entrance Road",
+        "oneway": "yes",
+        "ref": "AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "Entrance",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "Rd"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1056041,
+            36.0520559
+          ],
+          [
+            -112.1054441,
+            36.0522624
+          ]
+        ]
+      },
+      "id": "way/363530534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/363551420",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "4",
+        "lanes:backward": "2",
+        "lanes:forward": "2",
+        "maxspeed": "35 mph",
+        "name": "State Route 64",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64",
+        "turn:lanes:backward": "through|right",
+        "turn:lanes:forward": "left|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1394008,
+            35.6525929
+          ],
+          [
+            -112.1394186,
+            35.6524655
+          ]
+        ]
+      },
+      "id": "way/363551420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/363551421",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "35 mph",
+        "name": "State Route 64",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64",
+        "turn:lanes:forward": "left|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1394186,
+            35.6524655
+          ],
+          [
+            -112.1394666,
+            35.652093
+          ]
+        ]
+      },
+      "id": "way/363551421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/363551422",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "State Route 64",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64",
+        "turn:lanes:backward": "through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1393486,
+            35.6529657
+          ],
+          [
+            -112.1394008,
+            35.6525929
+          ]
+        ]
+      },
+      "id": "way/363551422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/384923836",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "name": "East Rim Drive",
+        "ref": "AZ 64",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim",
+        "tiger:name_base_1": "State Highway 64",
+        "tiger:name_base_2": "State Route 64",
+        "tiger:name_type": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8524774,
+            36.0270394
+          ],
+          [
+            -111.8518644,
+            36.0273198
+          ],
+          [
+            -111.8509836,
+            36.0276627
+          ],
+          [
+            -111.8501183,
+            36.0280211
+          ],
+          [
+            -111.8496379,
+            36.0282608
+          ],
+          [
+            -111.84915,
+            36.0285556
+          ],
+          [
+            -111.8487257,
+            36.0288349
+          ],
+          [
+            -111.8478018,
+            36.0295356
+          ],
+          [
+            -111.8410954,
+            36.0349004
+          ],
+          [
+            -111.8403339,
+            36.0355033
+          ],
+          [
+            -111.8399621,
+            36.0358107
+          ],
+          [
+            -111.8396773,
+            36.0360787
+          ],
+          [
+            -111.839331,
+            36.0364945
+          ],
+          [
+            -111.83904,
+            36.0369732
+          ],
+          [
+            -111.8389328,
+            36.0371283
+          ],
+          [
+            -111.838872,
+            36.0372
+          ],
+          [
+            -111.8387844,
+            36.0372705
+          ],
+          [
+            -111.8385908,
+            36.0374102
+          ],
+          [
+            -111.8383189,
+            36.0375549
+          ],
+          [
+            -111.8381065,
+            36.0376155
+          ],
+          [
+            -111.8378434,
+            36.037663
+          ],
+          [
+            -111.8376441,
+            36.0376762
+          ],
+          [
+            -111.8374224,
+            36.0376664
+          ],
+          [
+            -111.8372512,
+            36.0376383
+          ],
+          [
+            -111.8370345,
+            36.0375777
+          ],
+          [
+            -111.8368214,
+            36.0374857
+          ],
+          [
+            -111.8366349,
+            36.0373738
+          ],
+          [
+            -111.8364526,
+            36.0372182
+          ],
+          [
+            -111.8362669,
+            36.0369945
+          ],
+          [
+            -111.8361166,
+            36.0367813
+          ],
+          [
+            -111.8360065,
+            36.0366514
+          ],
+          [
+            -111.8358637,
+            36.0365362
+          ],
+          [
+            -111.8357096,
+            36.0364466
+          ],
+          [
+            -111.8355364,
+            36.0363682
+          ],
+          [
+            -111.8353513,
+            36.0363299
+          ],
+          [
+            -111.8351601,
+            36.03631
+          ],
+          [
+            -111.8349874,
+            36.0363163
+          ],
+          [
+            -111.8348313,
+            36.0363455
+          ],
+          [
+            -111.8346756,
+            36.0363934
+          ],
+          [
+            -111.8345473,
+            36.0364537
+          ],
+          [
+            -111.8344297,
+            36.036525
+          ],
+          [
+            -111.8343232,
+            36.0366057
+          ],
+          [
+            -111.8342155,
+            36.0367435
+          ],
+          [
+            -111.8339945,
+            36.0371829
+          ],
+          [
+            -111.8338824,
+            36.0374381
+          ],
+          [
+            -111.8338114,
+            36.0375726
+          ],
+          [
+            -111.8337195,
+            36.037689
+          ],
+          [
+            -111.8335984,
+            36.0378512
+          ],
+          [
+            -111.8334185,
+            36.0380595
+          ],
+          [
+            -111.8330981,
+            36.0383498
+          ],
+          [
+            -111.8327168,
+            36.0386059
+          ],
+          [
+            -111.8323571,
+            36.0388063
+          ],
+          [
+            -111.8318492,
+            36.0390066
+          ],
+          [
+            -111.8313129,
+            36.0391839
+          ]
+        ]
+      },
+      "id": "way/384923836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/384923837",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "45 mph",
+        "name": "East Rim Drive",
+        "ref": "AZ 64",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim",
+        "tiger:name_base_1": "State Highway 64",
+        "tiger:name_base_2": "State Route 64",
+        "tiger:name_type": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.0759709,
+            36.0393554
+          ],
+          [
+            -112.0734015,
+            36.0373616
+          ],
+          [
+            -112.0729694,
+            36.0370079
+          ],
+          [
+            -112.0723481,
+            36.0366099
+          ],
+          [
+            -112.0718912,
+            36.0362868
+          ],
+          [
+            -112.0702636,
+            36.0353891
+          ],
+          [
+            -112.0692827,
+            36.0348613
+          ]
+        ]
+      },
+      "id": "way/384923837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/397365750",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "45 mph",
+        "name": "East Rim Drive",
+        "oneway": "no",
+        "ref": "AZ 64",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim",
+        "tiger:name_base_1": "State Highway 64",
+        "tiger:name_base_2": "State Route 64",
+        "tiger:name_type": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.086763,
+            36.0469046
+          ],
+          [
+            -112.0862822,
+            36.0467408
+          ],
+          [
+            -112.0858717,
+            36.0465779
+          ],
+          [
+            -112.0855744,
+            36.0464588
+          ],
+          [
+            -112.0853277,
+            36.046337
+          ],
+          [
+            -112.0851871,
+            36.046268
+          ],
+          [
+            -112.0848993,
+            36.0460859
+          ],
+          [
+            -112.0844628,
+            36.0458097
+          ],
+          [
+            -112.0824409,
+            36.0442701
+          ],
+          [
+            -112.07682,
+            36.0399914
+          ],
+          [
+            -112.0766283,
+            36.0398441
+          ]
+        ]
+      },
+      "id": "way/397365750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/444491222",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "35 mph",
+        "name": "South Entrance Road",
+        "ref": "AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1216432,
+            36.0395209
+          ],
+          [
+            -112.1218064,
+            36.038834
+          ],
+          [
+            -112.122066,
+            36.0376476
+          ],
+          [
+            -112.1222518,
+            36.036863
+          ],
+          [
+            -112.1224205,
+            36.0361515
+          ],
+          [
+            -112.122562,
+            36.0354579
+          ]
+        ]
+      },
+      "id": "way/444491222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/540099430",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "35 mph",
+        "name": "East Rim Drive",
+        "oneway": "no",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim",
+        "tiger:name_base_1": "State Highway 64",
+        "tiger:name_base_2": "State Route 64",
+        "tiger:name_type": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.0898139,
+            36.0471829
+          ],
+          [
+            -112.0888038,
+            36.0472048
+          ],
+          [
+            -112.0884123,
+            36.0471913
+          ],
+          [
+            -112.0879254,
+            36.0471424
+          ],
+          [
+            -112.0873922,
+            36.0470529
+          ],
+          [
+            -112.086763,
+            36.0469046
+          ]
+        ]
+      },
+      "id": "way/540099430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/540099432",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "15 mph",
+        "name": "East Rim Drive",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim:State Highway 64",
+        "tiger:name_base_1": "East Rim:State Route 64",
+        "tiger:name_base_2": "State Highway 64:State Route 64",
+        "tiger:name_type": "Dr",
+        "tiger:name_type_1": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831727,
+            36.0335829
+          ],
+          [
+            -111.8316037,
+            36.0339257
+          ],
+          [
+            -111.8314327,
+            36.0342577
+          ],
+          [
+            -111.8311687,
+            36.034652
+          ]
+        ]
+      },
+      "id": "way/540099432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/607985603",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1285353,
+            35.9688013
+          ],
+          [
+            -112.1284264,
+            35.9690689
+          ],
+          [
+            -112.12828,
+            35.9693458
+          ],
+          [
+            -112.12814,
+            35.9696422
+          ]
+        ]
+      },
+      "id": "way/607985603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/607985604",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1273785,
+            35.9713748
+          ],
+          [
+            -112.1275039,
+            35.9712914
+          ],
+          [
+            -112.1276968,
+            35.9708737
+          ],
+          [
+            -112.1277569,
+            35.9707386
+          ],
+          [
+            -112.1277955,
+            35.9706523
+          ],
+          [
+            -112.127894,
+            35.9704388
+          ]
+        ]
+      },
+      "id": "way/607985604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/607985605",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "placement": "right_of:2",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64",
+        "turn:lanes": "left||"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1274947,
+            35.9710014
+          ],
+          [
+            -112.1273752,
+            35.971253
+          ],
+          [
+            -112.1273785,
+            35.9713748
+          ]
+        ]
+      },
+      "id": "way/607985605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/607985607",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.127754,
+            35.9704414
+          ],
+          [
+            -112.1276751,
+            35.9706135
+          ],
+          [
+            -112.1275723,
+            35.9708379
+          ]
+        ]
+      },
+      "id": "way/607985607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/607985608",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1265794,
+            35.9730175
+          ],
+          [
+            -112.1266771,
+            35.9729554
+          ],
+          [
+            -112.1268733,
+            35.9725769
+          ],
+          [
+            -112.1269587,
+            35.97239
+          ]
+        ]
+      },
+      "id": "way/607985608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/607985610",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:backward": "2",
+        "lanes:both_ways": "1",
+        "lanes:forward": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1270158,
+            35.9721231
+          ],
+          [
+            -112.1270274,
+            35.9720951
+          ],
+          [
+            -112.1273785,
+            35.9713748
+          ]
+        ]
+      },
+      "id": "way/607985610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/607985612",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1270158,
+            35.9721231
+          ],
+          [
+            -112.1269338,
+            35.9721536
+          ],
+          [
+            -112.1267482,
+            35.972536
+          ],
+          [
+            -112.126666,
+            35.9727086
+          ]
+        ]
+      },
+      "id": "way/607985612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/607985613",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:backward": "2",
+        "lanes:both_ways": "1",
+        "lanes:forward": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1261462,
+            35.9739149
+          ],
+          [
+            -112.1262082,
+            35.9737864
+          ],
+          [
+            -112.1263624,
+            35.973467
+          ],
+          [
+            -112.1265274,
+            35.9731253
+          ],
+          [
+            -112.1265794,
+            35.9730175
+          ]
+        ]
+      },
+      "id": "way/607985613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/607985615",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1245443,
+            35.9777817
+          ],
+          [
+            -112.124702,
+            35.9774938
+          ],
+          [
+            -112.1248037,
+            35.9771844
+          ],
+          [
+            -112.1248255,
+            35.977132
+          ],
+          [
+            -112.1248573,
+            35.9770745
+          ],
+          [
+            -112.1249038,
+            35.9770224
+          ],
+          [
+            -112.1249313,
+            35.9770035
+          ],
+          [
+            -112.1250004,
+            35.9769721
+          ],
+          [
+            -112.1250752,
+            35.976939
+          ]
+        ]
+      },
+      "id": "way/607985615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/607985624",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1257745,
+            35.974557
+          ],
+          [
+            -112.1256605,
+            35.9748024
+          ],
+          [
+            -112.1254855,
+            35.9752087
+          ],
+          [
+            -112.1254238,
+            35.9753457
+          ],
+          [
+            -112.1253472,
+            35.9755664
+          ],
+          [
+            -112.1252747,
+            35.9757892
+          ],
+          [
+            -112.1252238,
+            35.9760823
+          ],
+          [
+            -112.1252077,
+            35.9761973
+          ],
+          [
+            -112.1251856,
+            35.9763091
+          ],
+          [
+            -112.1251703,
+            35.9763475
+          ],
+          [
+            -112.1251452,
+            35.9763815
+          ],
+          [
+            -112.1251177,
+            35.9764118
+          ],
+          [
+            -112.125075,
+            35.97645
+          ],
+          [
+            -112.1250186,
+            35.9764894
+          ],
+          [
+            -112.1249326,
+            35.9765408
+          ]
+        ]
+      },
+      "id": "way/607985624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/631945388",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1247818,
+            35.9767331
+          ],
+          [
+            -112.1247458,
+            35.9769576
+          ],
+          [
+            -112.124605,
+            35.9774775
+          ],
+          [
+            -112.1245443,
+            35.9777817
+          ]
+        ]
+      },
+      "id": "way/631945388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/631945389",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1252899,
+            35.9766736
+          ],
+          [
+            -112.1252923,
+            35.976463
+          ],
+          [
+            -112.125298,
+            35.9763648
+          ],
+          [
+            -112.125335,
+            35.9761213
+          ],
+          [
+            -112.1253768,
+            35.975925
+          ],
+          [
+            -112.125397,
+            35.9758597
+          ]
+        ]
+      },
+      "id": "way/631945389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641950954",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "45 mph",
+        "name": "East Rim Drive",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim:State Highway 64",
+        "tiger:name_base_1": "East Rim:State Route 64",
+        "tiger:name_base_2": "State Highway 64:State Route 64",
+        "tiger:name_type": "Dr",
+        "tiger:name_type_1": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8281465,
+            36.0289254
+          ],
+          [
+            -111.828574,
+            36.0295101
+          ],
+          [
+            -111.8289463,
+            36.0299287
+          ],
+          [
+            -111.8293471,
+            36.0303244
+          ]
+        ]
+      },
+      "id": "way/641950954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641950955",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "45 mph",
+        "name": "East Rim Drive",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim:State Highway 64",
+        "tiger:name_base_1": "East Rim:State Route 64",
+        "tiger:name_base_2": "State Highway 64:State Route 64",
+        "tiger:name_type": "Dr",
+        "tiger:name_type_1": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8293471,
+            36.0303244
+          ],
+          [
+            -111.829703,
+            36.0306317
+          ],
+          [
+            -111.8300667,
+            36.0309361
+          ],
+          [
+            -111.8305899,
+            36.0313278
+          ]
+        ]
+      },
+      "id": "way/641950955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641950956",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "15 mph",
+        "name": "East Rim Drive",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim:State Highway 64",
+        "tiger:name_base_1": "East Rim:State Route 64",
+        "tiger:name_base_2": "State Highway 64:State Route 64",
+        "tiger:name_type": "Dr",
+        "tiger:name_type_1": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8315857,
+            36.0323883
+          ],
+          [
+            -111.8317063,
+            36.0326812
+          ],
+          [
+            -111.8317694,
+            36.0330003
+          ],
+          [
+            -111.8317661,
+            36.0332905
+          ],
+          [
+            -111.831727,
+            36.0335829
+          ]
+        ]
+      },
+      "id": "way/641950956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641950957",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "45 mph",
+        "name": "East Rim Drive",
+        "name_1": "Arizona State Highway 64",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "Rim",
+        "tiger:name_base_1": "State 64",
+        "tiger:name_type": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8047757,
+            36.0084406
+          ],
+          [
+            -111.8051005,
+            36.0087173
+          ],
+          [
+            -111.8054626,
+            36.0089757
+          ],
+          [
+            -111.8058204,
+            36.0092007
+          ],
+          [
+            -111.8063343,
+            36.0094732
+          ],
+          [
+            -111.8071304,
+            36.0098741
+          ],
+          [
+            -111.8076234,
+            36.0101946
+          ],
+          [
+            -111.8079919,
+            36.0105558
+          ],
+          [
+            -111.8082564,
+            36.0109759
+          ],
+          [
+            -111.8083924,
+            36.0114116
+          ],
+          [
+            -111.8084315,
+            36.0118288
+          ],
+          [
+            -111.8083739,
+            36.0121844
+          ],
+          [
+            -111.8082261,
+            36.0125925
+          ],
+          [
+            -111.8078051,
+            36.0134352
+          ],
+          [
+            -111.8075975,
+            36.0140067
+          ],
+          [
+            -111.8074973,
+            36.0144791
+          ],
+          [
+            -111.8072062,
+            36.0158495
+          ],
+          [
+            -111.8071736,
+            36.0163018
+          ],
+          [
+            -111.8072098,
+            36.0166849
+          ],
+          [
+            -111.8073385,
+            36.0170871
+          ],
+          [
+            -111.8075292,
+            36.0174646
+          ],
+          [
+            -111.8078868,
+            36.0178751
+          ],
+          [
+            -111.8082301,
+            36.0181573
+          ],
+          [
+            -111.8087035,
+            36.0184344
+          ],
+          [
+            -111.8092686,
+            36.0186257
+          ],
+          [
+            -111.8098904,
+            36.0187463
+          ],
+          [
+            -111.8113004,
+            36.0189604
+          ],
+          [
+            -111.812185,
+            36.0191965
+          ],
+          [
+            -111.812973,
+            36.0195108
+          ],
+          [
+            -111.8137474,
+            36.0199228
+          ],
+          [
+            -111.815401,
+            36.0208665
+          ],
+          [
+            -111.8159928,
+            36.0211525
+          ],
+          [
+            -111.8166187,
+            36.0213531
+          ],
+          [
+            -111.8173043,
+            36.0215286
+          ],
+          [
+            -111.8180743,
+            36.0216416
+          ],
+          [
+            -111.8194065,
+            36.0217742
+          ],
+          [
+            -111.8203267,
+            36.0219244
+          ],
+          [
+            -111.8212639,
+            36.0221476
+          ],
+          [
+            -111.8220291,
+            36.022401
+          ],
+          [
+            -111.8225492,
+            36.0226103
+          ],
+          [
+            -111.8230814,
+            36.022857
+          ],
+          [
+            -111.8235113,
+            36.0230882
+          ],
+          [
+            -111.8240201,
+            36.0233908
+          ],
+          [
+            -111.8244807,
+            36.0236965
+          ],
+          [
+            -111.8250871,
+            36.0241896
+          ],
+          [
+            -111.8256608,
+            36.0247481
+          ],
+          [
+            -111.8261946,
+            36.0253798
+          ],
+          [
+            -111.8266804,
+            36.0261241
+          ],
+          [
+            -111.8271237,
+            36.0270295
+          ],
+          [
+            -111.8276693,
+            36.0281423
+          ],
+          [
+            -111.8281465,
+            36.0289254
+          ]
+        ]
+      },
+      "id": "way/641950957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641950964",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "45 mph",
+        "name": "East Rim Drive",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim:State Highway 64",
+        "tiger:name_base_2": "State Highway 64:State Route 64",
+        "tiger:name_type": "Dr",
+        "tiger:name_type_1": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.7997106,
+            36.0037482
+          ],
+          [
+            -111.8004713,
+            36.0040657
+          ],
+          [
+            -111.8011502,
+            36.0043939
+          ],
+          [
+            -111.8017904,
+            36.0047451
+          ],
+          [
+            -111.8022641,
+            36.0051313
+          ],
+          [
+            -111.8026793,
+            36.0055718
+          ],
+          [
+            -111.8029325,
+            36.0059259
+          ],
+          [
+            -111.803272,
+            36.0064542
+          ],
+          [
+            -111.8036309,
+            36.0070437
+          ],
+          [
+            -111.8039235,
+            36.0074914
+          ],
+          [
+            -111.8043294,
+            36.0080123
+          ],
+          [
+            -111.8047757,
+            36.0084406
+          ]
+        ]
+      },
+      "id": "way/641950964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641950966",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "55 mph",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim:State Highway 64",
+        "tiger:name_base_1": "East Rim:State Route 64",
+        "tiger:name_base_2": "State Highway 64:State Route 64",
+        "tiger:name_type": "Dr",
+        "tiger:name_type_1": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.797821,
+            35.9951589
+          ],
+          [
+            -111.7967709,
+            35.9970227
+          ],
+          [
+            -111.79653,
+            35.997519
+          ],
+          [
+            -111.7964056,
+            35.9979072
+          ],
+          [
+            -111.7962994,
+            35.9984139
+          ],
+          [
+            -111.7962406,
+            35.9988872
+          ],
+          [
+            -111.7962551,
+            35.9994542
+          ],
+          [
+            -111.7963393,
+            36.0000373
+          ],
+          [
+            -111.7964772,
+            36.0005301
+          ],
+          [
+            -111.7967098,
+            36.0010816
+          ],
+          [
+            -111.7969831,
+            36.0015469
+          ],
+          [
+            -111.7973207,
+            36.0020043
+          ],
+          [
+            -111.7976995,
+            36.0024168
+          ],
+          [
+            -111.7981332,
+            36.0028078
+          ],
+          [
+            -111.798668,
+            36.0031836
+          ],
+          [
+            -111.7991122,
+            36.0034542
+          ],
+          [
+            -111.7997106,
+            36.0037482
+          ]
+        ]
+      },
+      "id": "way/641950966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641950967",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "65 mph",
+        "name": "East Rim Drive",
+        "name_1": "Arizona State Highway 64",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "Rim",
+        "tiger:name_base_1": "State 64",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.7845119,
+            35.9606076
+          ],
+          [
+            -111.7850153,
+            35.9619732
+          ],
+          [
+            -111.7859101,
+            35.9644151
+          ],
+          [
+            -111.7869798,
+            35.9674001
+          ],
+          [
+            -111.7879116,
+            35.9698731
+          ],
+          [
+            -111.7885215,
+            35.9716064
+          ],
+          [
+            -111.7889995,
+            35.9729379
+          ],
+          [
+            -111.7896528,
+            35.9747533
+          ],
+          [
+            -111.7899758,
+            35.975521
+          ],
+          [
+            -111.7902094,
+            35.9759869
+          ],
+          [
+            -111.7906045,
+            35.9766847
+          ],
+          [
+            -111.7910889,
+            35.9774464
+          ],
+          [
+            -111.791344,
+            35.9778133
+          ],
+          [
+            -111.7916117,
+            35.9781651
+          ],
+          [
+            -111.7922303,
+            35.9789669
+          ],
+          [
+            -111.7928272,
+            35.9797454
+          ],
+          [
+            -111.7943684,
+            35.9817149
+          ],
+          [
+            -111.7957441,
+            35.9834488
+          ],
+          [
+            -111.7976163,
+            35.9858397
+          ],
+          [
+            -111.7982652,
+            35.9866866
+          ],
+          [
+            -111.7985436,
+            35.9871428
+          ],
+          [
+            -111.7988695,
+            35.9877626
+          ],
+          [
+            -111.7990993,
+            35.9883456
+          ],
+          [
+            -111.7992715,
+            35.9889133
+          ],
+          [
+            -111.7993836,
+            35.989434
+          ],
+          [
+            -111.7994515,
+            35.9899583
+          ],
+          [
+            -111.7994708,
+            35.9904453
+          ],
+          [
+            -111.7994266,
+            35.9912778
+          ],
+          [
+            -111.7993552,
+            35.9917598
+          ],
+          [
+            -111.7991889,
+            35.9923985
+          ],
+          [
+            -111.7989668,
+            35.9930011
+          ],
+          [
+            -111.7986731,
+            35.9936192
+          ],
+          [
+            -111.797821,
+            35.9951589
+          ]
+        ]
+      },
+      "id": "way/641950967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641950968",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "65 mph",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim:State Highway 64",
+        "tiger:name_base_1": "East Rim:State Route 64",
+        "tiger:name_base_2": "State Highway 64:State Route 64",
+        "tiger:name_type": "Dr",
+        "tiger:name_type_1": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.7545654,
+            35.9228564
+          ],
+          [
+            -111.7555043,
+            35.9228401
+          ],
+          [
+            -111.7564646,
+            35.922889
+          ],
+          [
+            -111.7570061,
+            35.9229629
+          ],
+          [
+            -111.7578514,
+            35.9231138
+          ],
+          [
+            -111.7586322,
+            35.9233104
+          ],
+          [
+            -111.7594342,
+            35.9235808
+          ],
+          [
+            -111.7602094,
+            35.923899
+          ],
+          [
+            -111.7608463,
+            35.9242335
+          ],
+          [
+            -111.761502,
+            35.924631
+          ],
+          [
+            -111.7620826,
+            35.9250502
+          ],
+          [
+            -111.7625934,
+            35.9254868
+          ],
+          [
+            -111.7631621,
+            35.9260515
+          ],
+          [
+            -111.7636436,
+            35.9266449
+          ],
+          [
+            -111.764109,
+            35.9272601
+          ],
+          [
+            -111.7663779,
+            35.9302432
+          ]
+        ]
+      },
+      "id": "way/641950968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641950969",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "65 mph",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim:State Highway 64",
+        "tiger:name_base_1": "East Rim:State Route 64",
+        "tiger:name_base_2": "State Highway 64:State Route 64",
+        "tiger:name_type": "Dr",
+        "tiger:name_type_1": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.7663779,
+            35.9302432
+          ],
+          [
+            -111.768411,
+            35.9329233
+          ],
+          [
+            -111.7689635,
+            35.9336497
+          ],
+          [
+            -111.7695509,
+            35.9344283
+          ],
+          [
+            -111.7706936,
+            35.9359333
+          ],
+          [
+            -111.7710067,
+            35.9363522
+          ],
+          [
+            -111.7713145,
+            35.9367624
+          ],
+          [
+            -111.7719408,
+            35.9375871
+          ],
+          [
+            -111.7731987,
+            35.9392452
+          ],
+          [
+            -111.7744354,
+            35.9408728
+          ],
+          [
+            -111.7756667,
+            35.9424982
+          ],
+          [
+            -111.7782654,
+            35.9459204
+          ],
+          [
+            -111.7789675,
+            35.9468511
+          ],
+          [
+            -111.7796125,
+            35.9478356
+          ],
+          [
+            -111.7801178,
+            35.9487506
+          ],
+          [
+            -111.7805138,
+            35.9495966
+          ],
+          [
+            -111.7810931,
+            35.9511263
+          ],
+          [
+            -111.7816456,
+            35.9526603
+          ],
+          [
+            -111.7819545,
+            35.9535114
+          ],
+          [
+            -111.7822662,
+            35.9543647
+          ],
+          [
+            -111.7828894,
+            35.95608
+          ],
+          [
+            -111.7839304,
+            35.9589932
+          ],
+          [
+            -111.7845119,
+            35.9606076
+          ]
+        ]
+      },
+      "id": "way/641950969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/642761723",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "4",
+        "lanes:backward": "2",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "45 mph",
+        "name": "State Route 64",
+        "note:lanes": "1 southbound, 2 northbound",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1233678,
+            35.98969
+          ],
+          [
+            -112.1233505,
+            35.9888093
+          ],
+          [
+            -112.1232952,
+            35.9877831
+          ]
+        ]
+      },
+      "id": "way/642761723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/642761724",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "South Entrance Road",
+        "ref": "AZ 64",
+        "source": "TIGER, Bing",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1226897,
+            35.9952518
+          ],
+          [
+            -112.1228605,
+            35.9946094
+          ],
+          [
+            -112.1230691,
+            35.9935801
+          ],
+          [
+            -112.1231507,
+            35.9931375
+          ],
+          [
+            -112.1232215,
+            35.9927209
+          ],
+          [
+            -112.123249,
+            35.9923344
+          ]
+        ]
+      },
+      "id": "way/642761724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/642761725",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "45 mph",
+        "name": "South Entrance Road",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1213595,
+            36.0024247
+          ],
+          [
+            -112.1213895,
+            36.0018178
+          ]
+        ]
+      },
+      "id": "way/642761725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/642761726",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "45 mph",
+        "name": "South Entrance Road",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.12104,
+            36.0170793
+          ],
+          [
+            -112.1208398,
+            36.0164675
+          ],
+          [
+            -112.1207096,
+            36.0160848
+          ],
+          [
+            -112.1204691,
+            36.0150814
+          ],
+          [
+            -112.1203708,
+            36.0142256
+          ],
+          [
+            -112.1202946,
+            36.0132119
+          ],
+          [
+            -112.120272,
+            36.0122091
+          ],
+          [
+            -112.1203336,
+            36.0107033
+          ],
+          [
+            -112.1205478,
+            36.0092351
+          ],
+          [
+            -112.1207115,
+            36.0081891
+          ],
+          [
+            -112.1210328,
+            36.0068296
+          ],
+          [
+            -112.121175,
+            36.0059647
+          ],
+          [
+            -112.121284,
+            36.0049772
+          ],
+          [
+            -112.1213814,
+            36.0038378
+          ],
+          [
+            -112.1213756,
+            36.0031378
+          ],
+          [
+            -112.1213595,
+            36.0024247
+          ]
+        ]
+      },
+      "id": "way/642761726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/643959677",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "35 mph",
+        "name": "East Rim Drive",
+        "oneway": "no",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim",
+        "tiger:name_base_1": "State Highway 64",
+        "tiger:name_base_2": "State Route 64",
+        "tiger:name_type": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1031671,
+            36.051159
+          ],
+          [
+            -112.1029339,
+            36.0510542
+          ],
+          [
+            -112.1024113,
+            36.0508311
+          ],
+          [
+            -112.1020616,
+            36.050713
+          ],
+          [
+            -112.1016626,
+            36.0505964
+          ],
+          [
+            -112.1012295,
+            36.0504896
+          ],
+          [
+            -112.1006582,
+            36.0503929
+          ],
+          [
+            -112.1001222,
+            36.0503188
+          ],
+          [
+            -112.0997253,
+            36.0502427
+          ],
+          [
+            -112.0992777,
+            36.0501341
+          ],
+          [
+            -112.098785,
+            36.0499749
+          ],
+          [
+            -112.098186,
+            36.04974
+          ],
+          [
+            -112.0973051,
+            36.0493044
+          ],
+          [
+            -112.0955643,
+            36.0484291
+          ],
+          [
+            -112.0948963,
+            36.0481611
+          ],
+          [
+            -112.0945313,
+            36.0480386
+          ],
+          [
+            -112.0940355,
+            36.0478937
+          ],
+          [
+            -112.0930211,
+            36.0476438
+          ],
+          [
+            -112.0916017,
+            36.0473419
+          ],
+          [
+            -112.0910798,
+            36.0472517
+          ],
+          [
+            -112.0905709,
+            36.0471943
+          ],
+          [
+            -112.0898139,
+            36.0471829
+          ]
+        ]
+      },
+      "id": "way/643959677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/652042908",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "45 mph",
+        "name": "State Route 64",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1238231,
+            35.980339
+          ],
+          [
+            -112.1242613,
+            35.9787124
+          ]
+        ]
+      },
+      "id": "way/652042908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/654761070",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "35 mph",
+        "name": "East Rim Drive",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim:State Highway 64",
+        "tiger:name_base_1": "East Rim:State Route 64",
+        "tiger:name_base_2": "State Highway 64:State Route 64",
+        "tiger:name_type": "Dr",
+        "tiger:name_type_1": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8305899,
+            36.0313278
+          ],
+          [
+            -111.8311629,
+            36.0317759
+          ],
+          [
+            -111.8313844,
+            36.0320341
+          ],
+          [
+            -111.8315857,
+            36.0323883
+          ]
+        ]
+      },
+      "id": "way/654761070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/689374803",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "25 mph",
+        "name": "East Rim Drive",
+        "oneway": "no",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "East Rim",
+        "tiger:name_base_1": "State Highway 64",
+        "tiger:name_base_2": "State Route 64",
+        "tiger:name_type": "Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1055557,
+            36.0523194
+          ],
+          [
+            -112.1054441,
+            36.0522624
+          ],
+          [
+            -112.1052611,
+            36.0521697
+          ]
+        ]
+      },
+      "id": "way/689374803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1070093058",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "65 mph",
+        "name": "State Route 64",
+        "oneway": "no",
+        "ref": "AZ 64",
+        "source": "TIGER, Bing",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "State Highway 64;State Route 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1508076,
+            35.586619
+          ],
+          [
+            -112.1501656,
+            35.5891873
+          ],
+          [
+            -112.149328,
+            35.592288
+          ],
+          [
+            -112.1492372,
+            35.5927931
+          ],
+          [
+            -112.148239,
+            35.596357
+          ],
+          [
+            -112.14801,
+            35.597219
+          ],
+          [
+            -112.147423,
+            35.59948
+          ],
+          [
+            -112.1469426,
+            35.6013202
+          ],
+          [
+            -112.1463041,
+            35.6041757
+          ],
+          [
+            -112.1458587,
+            35.6065829
+          ],
+          [
+            -112.1446585,
+            35.6139451
+          ],
+          [
+            -112.1427036,
+            35.6281925
+          ],
+          [
+            -112.1420816,
+            35.6328239
+          ],
+          [
+            -112.1399617,
+            35.6485413
+          ],
+          [
+            -112.1396852,
+            35.6505046
+          ],
+          [
+            -112.139572,
+            35.6513234
+          ],
+          [
+            -112.1394666,
+            35.652093
+          ]
+        ]
+      },
+      "id": "way/1070093058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1075011929",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "name": "East Rim Drive",
+        "oneway": "yes",
+        "ref": "AZ 64",
+        "tiger:cfcc": "A67"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8311687,
+            36.034652
+          ],
+          [
+            -111.8308231,
+            36.0350122
+          ],
+          [
+            -111.8304797,
+            36.0355497
+          ]
+        ]
+      },
+      "id": "way/1075011929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1075011930",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "name": "East Rim Drive",
+        "oneway": "yes",
+        "ref": "AZ 64",
+        "tiger:cfcc": "A67"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8304797,
+            36.0355497
+          ],
+          [
+            -111.8304291,
+            36.0356286
+          ]
+        ]
+      },
+      "id": "way/1075011930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118278729",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "1",
+        "maxspeed": "25 mph",
+        "name": "South Entrance Road",
+        "oneway": "yes",
+        "ref": "AZ 64",
+        "sidewalk": "no",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1213965,
+            36.0013644
+          ],
+          [
+            -112.1213895,
+            36.0018178
+          ]
+        ]
+      },
+      "id": "way/1118278729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118278730",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "South Entrance Road",
+        "ref": "AZ 64",
+        "source": "TIGER, Bing",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1220096,
+            35.9977062
+          ],
+          [
+            -112.1222184,
+            35.9969099
+          ],
+          [
+            -112.1226897,
+            35.9952518
+          ]
+        ]
+      },
+      "id": "way/1118278730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118278731",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "45 mph",
+        "name": "State Route 64",
+        "note:lanes": "1 southbound, 2 northbound",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64",
+        "turn:lanes:backward": "|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1232644,
+            35.9872107
+          ],
+          [
+            -112.1232184,
+            35.9860612
+          ]
+        ]
+      },
+      "id": "way/1118278731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118278732",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "4",
+        "lanes:backward": "2",
+        "lanes:forward": "2",
+        "maxspeed": "45 mph",
+        "name": "State Route 64",
+        "note:lanes": "1 southbound, 2 northbound",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64",
+        "turn:lanes:forward": "left|"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1232952,
+            35.9877831
+          ],
+          [
+            -112.1232644,
+            35.9872107
+          ]
+        ]
+      },
+      "id": "way/1118278732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118278733",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "4",
+        "lanes:backward": "3",
+        "lanes:forward": "1",
+        "maxspeed": "45 mph",
+        "name": "State Route 64",
+        "note:lanes": "1 southbound, 2 northbound",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64",
+        "turn:lanes:backward": "left||"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1233792,
+            35.9902679
+          ],
+          [
+            -112.1233678,
+            35.98969
+          ]
+        ]
+      },
+      "id": "way/1118278733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118278734",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "placement": "right_of:2",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64",
+        "turn:lanes": "left||"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1258972,
+            35.9742972
+          ],
+          [
+            -112.1257745,
+            35.974557
+          ]
+        ]
+      },
+      "id": "way/1118278734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118278735",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1261462,
+            35.9739149
+          ],
+          [
+            -112.1260478,
+            35.9739867
+          ],
+          [
+            -112.126038,
+            35.9740052
+          ],
+          [
+            -112.126001,
+            35.9740774
+          ],
+          [
+            -112.1258972,
+            35.9742972
+          ]
+        ]
+      },
+      "id": "way/1118278735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118278736",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1284461,
+            35.9692775
+          ],
+          [
+            -112.1284937,
+            35.9691842
+          ]
+        ]
+      },
+      "id": "way/1118278736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118278737",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1279552,
+            35.9700309
+          ],
+          [
+            -112.127754,
+            35.9704414
+          ]
+        ]
+      },
+      "id": "way/1118278737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118278738",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "placement": "right_of:2",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64",
+        "turn:lanes": "left||"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.12814,
+            35.9696422
+          ],
+          [
+            -112.1281071,
+            35.969712
+          ],
+          [
+            -112.1279552,
+            35.9700309
+          ]
+        ]
+      },
+      "id": "way/1118278738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118278739",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1280704,
+            35.9700665
+          ],
+          [
+            -112.1283443,
+            35.9694913
+          ],
+          [
+            -112.1283966,
+            35.9693815
+          ],
+          [
+            -112.1284461,
+            35.9692775
+          ]
+        ]
+      },
+      "id": "way/1118278739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118278740",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "placement": "right_of:2",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64",
+        "turn:lanes": "left||"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.127894,
+            35.9704388
+          ],
+          [
+            -112.1279078,
+            35.9704088
+          ],
+          [
+            -112.1279494,
+            35.9703258
+          ],
+          [
+            -112.1280704,
+            35.9700665
+          ]
+        ]
+      },
+      "id": "way/1118278740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118278741",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1275723,
+            35.9708379
+          ],
+          [
+            -112.1274947,
+            35.9710014
+          ]
+        ]
+      },
+      "id": "way/1118278741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118278742",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1254756,
+            35.9756059
+          ],
+          [
+            -112.1255571,
+            35.9753823
+          ],
+          [
+            -112.1256527,
+            35.9751712
+          ]
+        ]
+      },
+      "id": "way/1118278742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118278743",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "placement": "right_of:2",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64",
+        "turn:lanes": "left||"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.125397,
+            35.9758597
+          ],
+          [
+            -112.1254756,
+            35.9756059
+          ]
+        ]
+      },
+      "id": "way/1118278743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118278744",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1258027,
+            35.97484
+          ],
+          [
+            -112.1259173,
+            35.9745948
+          ],
+          [
+            -112.1260685,
+            35.9742714
+          ],
+          [
+            -112.1261034,
+            35.9741966
+          ]
+        ]
+      },
+      "id": "way/1118278744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118278745",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "placement": "right_of:2",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64",
+        "turn:lanes": "left||"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1256527,
+            35.9751712
+          ],
+          [
+            -112.1258027,
+            35.97484
+          ]
+        ]
+      },
+      "id": "way/1118278745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118278746",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "placement": "right_of:2",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64",
+        "turn:lanes": "left||"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1261034,
+            35.9741966
+          ],
+          [
+            -112.126172,
+            35.9740479
+          ],
+          [
+            -112.1261812,
+            35.9740312
+          ],
+          [
+            -112.1261462,
+            35.9739149
+          ]
+        ]
+      },
+      "id": "way/1118278746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118278747",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "placement": "right_of:2",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64",
+        "turn:lanes": "left||"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1284937,
+            35.9691842
+          ],
+          [
+            -112.1285412,
+            35.9690911
+          ],
+          [
+            -112.1286512,
+            35.9688163
+          ]
+        ]
+      },
+      "id": "way/1118278747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118464432",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "placement": "right_of:2",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64",
+        "turn:lanes": "left||"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.126666,
+            35.9727086
+          ],
+          [
+            -112.1266142,
+            35.9728173
+          ],
+          [
+            -112.1265658,
+            35.972918
+          ],
+          [
+            -112.1265794,
+            35.9730175
+          ]
+        ]
+      },
+      "id": "way/1118464432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118464433",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "25 mph",
+        "name": "State Route 64",
+        "oneway": "yes",
+        "placement": "right_of:2",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64",
+        "turn:lanes": "left||"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1269587,
+            35.97239
+          ],
+          [
+            -112.127049,
+            35.9721932
+          ],
+          [
+            -112.1270158,
+            35.9721231
+          ]
+        ]
+      },
+      "id": "way/1118464433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1149484249",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "65 mph",
+        "name": "State Highway 64",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "State 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1292706,
+            35.7769724
+          ],
+          [
+            -112.1293237,
+            35.7760981
+          ],
+          [
+            -112.1295321,
+            35.7741899
+          ],
+          [
+            -112.129534,
+            35.7741676
+          ],
+          [
+            -112.1297715,
+            35.7722001
+          ],
+          [
+            -112.1299692,
+            35.7702612
+          ],
+          [
+            -112.1300771,
+            35.7692105
+          ],
+          [
+            -112.1301665,
+            35.7682523
+          ]
+        ]
+      },
+      "id": "way/1149484249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1149484250",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "65 mph",
+        "name": "State Highway 64",
+        "ref": "US 180;AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "State 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1292418,
+            35.7773987
+          ],
+          [
+            -112.1292706,
+            35.7769724
+          ]
+        ]
+      },
+      "id": "way/1149484250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1149484251",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "65 mph",
+        "name": "State Route 64",
+        "ref": "US 180;AZ 64",
+        "source": "TIGER, Bing",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1332284,
+            35.6981339
+          ],
+          [
+            -112.1342168,
+            35.6906513
+          ],
+          [
+            -112.1344765,
+            35.6887493
+          ],
+          [
+            -112.1356759,
+            35.6799808
+          ],
+          [
+            -112.1367306,
+            35.672117
+          ],
+          [
+            -112.1371083,
+            35.6694396
+          ],
+          [
+            -112.1374415,
+            35.6670008
+          ]
+        ]
+      },
+      "id": "way/1149484251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1149484252",
+        "NHS": "yes",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "bridge": "yes",
+        "highway": "primary",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "65 mph",
+        "name": "State Route 64",
+        "ref": "US 180;AZ 64",
+        "source": "TIGER, Bing",
+        "source:maxspeed": "sign",
+        "surface": "paved",
+        "tiger:cfcc": "A21",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "United States Highway 180;State Route 64;State Highway 64"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1331858,
+            35.698456
+          ],
+          [
+            -112.1332284,
+            35.6981339
+          ]
+        ]
+      },
+      "id": "way/1149484252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1214450931",
+        "highway": "footway",
+        "name": "Rim Trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1078454,
+            36.0611298
+          ],
+          [
+            -112.1079034,
+            36.0611699
+          ],
+          [
+            -112.1079478,
+            36.0612218
+          ],
+          [
+            -112.1080763,
+            36.0613712
+          ]
+        ]
+      },
+      "id": "way/1214450931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1214450932",
+        "highway": "footway",
+        "name": "Rim Trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1071262,
+            36.060828
+          ],
+          [
+            -112.1071504,
+            36.0608475
+          ],
+          [
+            -112.1071942,
+            36.0608517
+          ],
+          [
+            -112.1072351,
+            36.0608402
+          ],
+          [
+            -112.1073343,
+            36.0609149
+          ],
+          [
+            -112.1074743,
+            36.0609406
+          ]
+        ]
+      },
+      "id": "way/1214450932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1214460267",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "highway": "primary",
+        "maxspeed": "35 mph",
+        "name": "South Entrance Road",
+        "ref": "AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "Entrance",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "Rd"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1207745,
+            36.042209
+          ],
+          [
+            -112.1210086,
+            36.04167
+          ],
+          [
+            -112.1212916,
+            36.0409051
+          ],
+          [
+            -112.1214678,
+            36.0403472
+          ],
+          [
+            -112.1216432,
+            36.0395209
+          ]
+        ]
+      },
+      "id": "way/1214460267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1214460268",
+        "adot_name": "Williams-Grand Canyon-Cameron Highway",
+        "bridge": "yes",
+        "highway": "primary",
+        "layer": "1",
+        "maxspeed": "35 mph",
+        "name": "South Entrance Road",
+        "ref": "AZ 64",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Coconino, AZ",
+        "tiger:name_base": "Entrance",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "Rd"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.1207356,
+            36.042299
+          ],
+          [
+            -112.1207745,
+            36.042209
+          ]
+        ]
+      },
+      "id": "way/1214460268"
+    }
+  ]
+}
