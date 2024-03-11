@@ -1,6 +1,21 @@
 denvegaser
 ==========
 
+Denver to Las Vegas roundtrip on scenic byways.
+
+<details>
+
+<summary>Crossing the Colorado Rockies on US-6 and I-70</summary>
+
+[Route (as GeoJSON)](geojson/us6-i70.geojson) and [YouTube video](https://youtu.be/C0JDjaaZDPM).
+
+### Overpass Turbo query
+
+    ( way[ref~"US 6"](39.7,-105.4382,39.8,-105.23649);
+      way[ref="I 70"](39.1270,-108.3250,39.9,-105.4382); );
+
+</details>
+
 Overpass Turbo queries
 ----------------------
 
