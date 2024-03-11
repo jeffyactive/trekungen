@@ -131,7 +131,7 @@ Denver to Las Vegas
 
 :round_pushpin: [Route](geojson/ut12.geojson):
 - __UT-12__ from UT-24 to US-89
-- __Lower Calf Creek Falls Trail__ (:walking:)
+- __Lower Calf Creek Falls Trail__ ( :walking: )
 - __Bryce Canyon Scenic Drive__ & __Bryce Point Road__
 
 :movie_camera: [YouTube](https://youtu.be/0UcUtnM-s5M)
@@ -155,10 +155,10 @@ Denver to Las Vegas
 ### Zion National Park
 
 :round_pushpin: [Route](geojson/zionnp.geojson):
-- __Riverside Walk__ (:walking:)
-- __Kayenta Trail__ (:walking:)
-- __Upper Emerald Pools Trail__ (:walking:)
-- __Middle Emerald Pools Trail__ (:walking:)
+- __Riverside Walk__ ( :walking: )
+- __Kayenta Trail__ ( :walking: )
+- __Upper Emerald Pools Trail__ ( :walking: )
+- __Middle Emerald Pools Trail__ ( :walking: )
 
 :movie_camera: [YouTube](https://youtu.be/vl5yFmxryQY)
 
@@ -222,7 +222,7 @@ Las Vegas to Denver
 
 :round_pushpin: [Route](geojson/az64.geojson):
 - __AZ-64__ from Williams, AZ to Grand Canyon NP
-- __Rim Trail__ (:walking:)
+- __Rim Trail__ ( :walking: )
 
 :movie_camera: [YouTube](https://youtu.be/NZADtE7_z2Y)
 
