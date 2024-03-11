@@ -148,6 +148,8 @@ Denver to Las Vegas
 
 ### Day 3: Zion National Park, UT to Las Vegas, NV
 
+<details>
+
 <summary>3.1 Zion National Park</summary>
 
 ### Zion National Park
@@ -234,6 +236,8 @@ Las Vegas to Denver
 
 ### Day 2: Grand Canyon National Park, AZ to Leadville, CO
 
+<details>
+
 <summary>2.1 Grand Canyon to the Valley of the Gods</summary>
 
 ### Grand Canyon to the Valley of the Gods
@@ -254,6 +258,8 @@ Las Vegas to Denver
       way[ref="US 163"](35.8470,-111.7268,37.2350,-109.83); );
 
 </details>
+
+<details>
 
 <summary>2.2 Valley of the Gods and the Moki Dugway</summary>
 
