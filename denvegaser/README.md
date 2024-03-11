@@ -9,13 +9,13 @@ Denver to Las Vegas roundtrip on scenic byways.
 
 ### Crossing the Colorado Rockies
 
-[Route](geojson/us6-i70.geojson):
+:round_pushpin: [Route](geojson/us6-i70.geojson):
 - US-6 West from Golden, CO
 - I-70 West (CO Exit 244 to Exit 44)
 
-[Watch on YouTube](https://youtu.be/C0JDjaaZDPM).
+:movie_camera: [YouTube](https://youtu.be/C0JDjaaZDPM)
 
-Overpass Turbo query:
+:globe_with_meridians: Overpass API query:
 
     ( way[ref~"US 6"](39.7,-105.4382,39.8,-105.23649);
       way[ref="I 70"](39.1270,-108.3250,39.9,-105.4382); );
