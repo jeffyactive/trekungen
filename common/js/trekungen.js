@@ -1,10 +1,12 @@
 // Adapted from https://openlayers.org/en/latest/examples/geojson.html
 
+const BASE_PATH = '/trekungen/';
+
 const GeoJSON = ol.format.GeoJSON;
 
 const vectorSource = new ol.source.Vector({});
 
-fetch('../../denvegaser/geojson/overview.geojson')
+fetch(BASE_PATH + 'denvegaser/geojson/overview.geojson')
     .then((response) => response.json())
     .then((json) => vectorSource.addFeatures(new GeoJSON().readFeatures(json)));
 
