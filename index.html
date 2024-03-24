@@ -6,8 +6,63 @@
     <title> trekungen </title>
     <link rel="stylesheet" href="common/style/ol.css">
     <link rel="stylesheet" href="common/style/bootstrap.min.css">
+    <link rel="stylesheet" href="common/style/bootstrap-icons.min.css">
   </head>
   <body>
+    <nav class="navbar navbar-expand-lg fixed-top bg-body-tertiary">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="./">
+          <i class="bi-compass"></i> trekungen
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          </ul>
+          <ul class="navbar-nav">
+            <!-- List of open source software used in this web application -->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" role="button"
+                 data-bs-toggle="dropdown" aria-expanded="false">
+                Open Source
+              </a>
+              <ul class="dropdown-menu dropdown-menu-end shadow">
+                <li>
+                  <a class="dropdown-item" target="_blank"
+                     href="https://github.com/jeffyactive/trekungen">
+                    <i class="bi-github"></i>/jeffyactive/trekungen
+                    <span class="badge text-bg-info ms-1"> MIT / CC0-1.0 </span>
+                  </a>
+                </li>
+                <li><hr class="dropdown-divider"></li>
+                <li>
+                  <a class="dropdown-item" target="_blank"
+                     href="https://openlayers.org/">
+                    <i class="bi-code-slash"></i> OpenLayers
+                    <span class="badge text-bg-info ms-1"> 2-Clause BSD </span>
+                  </a>
+                </li>
+                <li>
+                  <a class="dropdown-item" target="_blank"
+                     href="https://getbootstrap.com/">
+                    <i class="bi-bootstrap"></i> Bootstrap
+                    <span class="badge text-bg-info ms-1"> MIT </span>
+                  </a>
+                </li>
+                <li>
+                  <a class="dropdown-item" target="_blank"
+                     href="https://icons.getbootstrap.com/">
+                    <i class="bi-bootstrap"></i> Bootstrap Icons
+                    <span class="badge text-bg-info ms-1"> MIT </span>
+                  </a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
     <div id="map" class="map vw-100 vh-100"></div>
     <script src="common/js/bootstrap.bundle.min.js"></script>
     <script src="common/js/ol.js"></script>
