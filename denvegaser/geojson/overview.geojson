@@ -12,14 +12,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-104.98486, 39.73924]
-      }
+      },
+      "properties": { "trek": "denvegaser" }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [-115.14845, 36.16732]
-      }
+      },
+      "properties": { "trek": "denvegaser" }
     },
     {
       "type": "Feature",
@@ -59,7 +61,8 @@
           [-106.00384, 39.22469],
           [-104.98486, 39.73924]
         ]
-      }
+      },
+      "properties": { "trek": "denvegaser" }
     }
   ]
 }

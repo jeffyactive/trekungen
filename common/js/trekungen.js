@@ -1,4 +1,5 @@
 // Adapted from https://openlayers.org/en/latest/examples/geojson.html
+//          and https://openlayers.org/en/latest/examples/select-features.html
 
 const BASE_PATH = '/trekungen/';
 
@@ -25,4 +26,14 @@ const map = new ol.Map({
     center: [-73.55413, 45.50882],
     zoom: 2
   }),
+});
+
+let select = new ol.interaction.Select();
+map.addInteraction(select);
+
+select.on('select', (e) => {
+  if(e.selected.length > 0) {
+    let trek = e.selected[0].values_.trek;
+    // TODO: highlight trek
+  }
 });
