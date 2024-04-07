@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.74535, 46.54977]
+      },
+      "properties": { "trek": "via603" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.24425, 48.39225]
+      },
+      "properties": { "trek": "via603" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-72.74535, 46.54977],
+          [-72.56417, 46.72311],
+          [-72.46786, 46.85352],
+          [-72.78246, 47.43941],
+          [-73.7753, 47.8982],
+          [-74.18027, 47.88775],
+          [-74.47024, 47.87259],
+          [-74.61488, 47.91977],
+          [-75.35969, 48.10962],
+          [-77.24425, 48.39225]
+        ]
+      },
+      "properties": { "trek": "via603" }
+    }
+  ]
+}

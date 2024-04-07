@@ -18,6 +18,9 @@ const vectorSource = new ol.source.Vector({});
 fetch(BASE_PATH + 'denvegaser/geojson/overview.geojson')
     .then((response) => response.json())
     .then((json) => vectorSource.addFeatures(new GeoJSON().readFeatures(json)));
+fetch(BASE_PATH + 'via603/geojson/overview.geojson')
+    .then((response) => response.json())
+    .then((json) => vectorSource.addFeatures(new GeoJSON().readFeatures(json)));
 
 const vectorLayer = new ol.layer.Vector({ source: vectorSource });
 
