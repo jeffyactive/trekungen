@@ -2,17 +2,26 @@
 //          and https://openlayers.org/en/latest/examples/select-features.html
 
 const BASE_PATH = '/trekungen/';
+const TREKUNGEN_GITHUB = 'https://github.com/jeffyactive/trekungen/tree/master/';
 
+// DOM elements
+const offcanvasTitle = document.querySelector('#offcanvasTitle');
+const trekTitle = document.querySelector('#trekTitle');
+const trekYouTube = document.querySelector('#trekYouTube');
+const offcanvas = new bootstrap.Offcanvas(document.querySelector('#offcanvas'));
+
+// OpenLayers components
 const GeoJSON = ol.format.GeoJSON;
-
 const vectorSource = new ol.source.Vector({});
 
+// Fetch the GeoJSON of each trek and add as features to the vector layer
 fetch(BASE_PATH + 'denvegaser/geojson/overview.geojson')
     .then((response) => response.json())
     .then((json) => vectorSource.addFeatures(new GeoJSON().readFeatures(json)));
 
 const vectorLayer = new ol.layer.Vector({ source: vectorSource });
 
+// Create the OpenStreetMap map with GeoJSON-friendly projection
 const map = new ol.Map({
   layers: [
     new ol.layer.Tile({
@@ -28,12 +37,34 @@ const map = new ol.Map({
   }),
 });
 
+// Enable selection of elements on the map
 let select = new ol.interaction.Select();
+select.on('select', handleSelect);
 map.addInteraction(select);
 
-select.on('select', (e) => {
-  if(e.selected.length > 0) {
+// Handle a selection on the map
+function handleSelect(e) {
+  let isSomethingSelected = (e.selected.length > 0);
+
+  if(isSomethingSelected) {
     let trek = e.selected[0].values_.trek;
-    // TODO: highlight trek
+
+    if(trek) {
+      updateOffcanvas(trek);
+    }
   }
-});
+  else {
+    offcanvas.hide();
+  }
+}
+
+// Update the offcanvas with the information about the trek
+function updateOffcanvas(trek) {
+  fetch(BASE_PATH + trek + '/overview.json')
+      .then((response) => response.json())
+      .then((json) => { trekTitle.textContent = json.title;
+                        trekYouTube.src = json.youtube;
+                        trekGitHub.href = TREKUNGEN_GITHUB + trek });
+  offcanvasTitle.textContent = trek;
+  offcanvas.show();
+}

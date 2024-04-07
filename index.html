@@ -76,7 +76,30 @@
         </div>
       </div>
     </nav>
+    <!-- OpenStreetMap fills the screen -->
     <div id="map" class="map vw-100 vh-100"></div>
+    <!-- Offcanvas in which the selected trek summary is displayed -->
+    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvas"
+         aria-labelledby="offcanvasTitle">
+      <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="offcanvasTitle"></h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas"
+                aria-label="Close"></button>
+      </div>
+      <div class="offcanvas-body">
+        <h3 id="trekTitle" class="mb-3"></h3>
+        <div class="ratio ratio-16x9 mb-3">
+          <iframe id="trekYouTube" src="" title="YouTube video player"
+                  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  referrerpolicy="strict-origin-when-cross-origin"
+                  allowfullscreen></iframe>
+        </div>
+        <p>
+          <i class="bi-github"></i>
+          <a href="" target="_blank" id="trekGitHub"> Source </a>
+        </p>
+      </div>
+    </div>
     <script src="common/js/bootstrap.bundle.min.js"></script>
     <script src="common/js/ol.js"></script>
     <script type="module" src="common/js/trekungen.js"></script>
