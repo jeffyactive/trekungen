@@ -21,6 +21,9 @@ fetch(BASE_PATH + 'denvegaser/geojson/overview.geojson')
 fetch(BASE_PATH + 'via603/geojson/overview.geojson')
     .then((response) => response.json())
     .then((json) => vectorSource.addFeatures(new GeoJSON().readFeatures(json)));
+fetch(BASE_PATH + 'via1/geojson/overview.geojson')
+    .then((response) => response.json())
+    .then((json) => vectorSource.addFeatures(new GeoJSON().readFeatures(json)));
 
 const vectorLayer = new ol.layer.Vector({ source: vectorSource });
 
@@ -36,7 +39,7 @@ const map = new ol.Map({
   view: new ol.View({
     projection: 'EPSG:4326',
     center: [-73.55413, 45.50882],
-    zoom: 2
+    zoom: 3
   }),
 });
 
