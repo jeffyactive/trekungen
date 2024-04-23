@@ -21,6 +21,9 @@ fetch(BASE_PATH + 'denvegaser/geojson/overview.geojson')
 fetch(BASE_PATH + 'via603/geojson/overview.geojson')
     .then((response) => response.json())
     .then((json) => vectorSource.addFeatures(new GeoJSON().readFeatures(json)));
+fetch(BASE_PATH + 'amtrak8/geojson/overview.geojson')
+    .then((response) => response.json())
+    .then((json) => vectorSource.addFeatures(new GeoJSON().readFeatures(json)));
 fetch(BASE_PATH + 'via1/geojson/overview.geojson')
     .then((response) => response.json())
     .then((json) => vectorSource.addFeatures(new GeoJSON().readFeatures(json)));
