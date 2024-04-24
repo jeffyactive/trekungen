@@ -1,8 +1,11 @@
 // Adapted from https://openlayers.org/en/latest/examples/geojson.html
 //          and https://openlayers.org/en/latest/examples/select-features.html
 
+// Site-specific constants
 const BASE_PATH = '/trekungen/';
 const TREKUNGEN_GITHUB = 'https://github.com/jeffyactive/trekungen/tree/master/';
+const TREKS = [ 'denvegaser', 'via603', 'sierraround', 'phoever', 'amtrak8',
+                'via1' ];
 
 // DOM elements
 const offcanvasTitle = document.querySelector('#offcanvasTitle');
@@ -15,25 +18,11 @@ const GeoJSON = ol.format.GeoJSON;
 const vectorSource = new ol.source.Vector({});
 
 // Fetch the GeoJSON of each trek and add as features to the vector layer
-fetch(BASE_PATH + 'denvegaser/geojson/overview.geojson')
+for(const trek of TREKS) {
+  fetch(BASE_PATH + trek + '/geojson/overview.geojson')
     .then((response) => response.json())
     .then((json) => vectorSource.addFeatures(new GeoJSON().readFeatures(json)));
-fetch(BASE_PATH + 'via603/geojson/overview.geojson')
-    .then((response) => response.json())
-    .then((json) => vectorSource.addFeatures(new GeoJSON().readFeatures(json)));
-fetch(BASE_PATH + 'sierraround/geojson/overview.geojson')
-    .then((response) => response.json())
-    .then((json) => vectorSource.addFeatures(new GeoJSON().readFeatures(json)));
-fetch(BASE_PATH + 'phoever/geojson/overview.geojson')
-    .then((response) => response.json())
-    .then((json) => vectorSource.addFeatures(new GeoJSON().readFeatures(json)));
-fetch(BASE_PATH + 'amtrak8/geojson/overview.geojson')
-    .then((response) => response.json())
-    .then((json) => vectorSource.addFeatures(new GeoJSON().readFeatures(json)));
-fetch(BASE_PATH + 'via1/geojson/overview.geojson')
-    .then((response) => response.json())
-    .then((json) => vectorSource.addFeatures(new GeoJSON().readFeatures(json)));
-
+}
 const vectorLayer = new ol.layer.Vector({ source: vectorSource });
 
 // Create the OpenStreetMap map with GeoJSON-friendly projection
