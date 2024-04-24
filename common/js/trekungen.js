@@ -24,6 +24,9 @@ fetch(BASE_PATH + 'via603/geojson/overview.geojson')
 fetch(BASE_PATH + 'sierraround/geojson/overview.geojson')
     .then((response) => response.json())
     .then((json) => vectorSource.addFeatures(new GeoJSON().readFeatures(json)));
+fetch(BASE_PATH + 'phoever/geojson/overview.geojson')
+    .then((response) => response.json())
+    .then((json) => vectorSource.addFeatures(new GeoJSON().readFeatures(json)));
 fetch(BASE_PATH + 'amtrak8/geojson/overview.geojson')
     .then((response) => response.json())
     .then((json) => vectorSource.addFeatures(new GeoJSON().readFeatures(json)));
