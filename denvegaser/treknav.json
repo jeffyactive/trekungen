@@ -1,54 +1,67 @@
 [
   {
     "title": "Colorado Rockies",
-    "youtube": "https://www.youtube.com/embed/C0JDjaaZDPM?si=qLHDCyaMpRucTU7q"
+    "youtube": "https://www.youtube.com/embed/C0JDjaaZDPM?si=qLHDCyaMpRucTU7q",
+    "geojson": "us6-i70.geojson"
   },
   {
     "title": "Colorado National Monument",
-    "youtube": "https://www.youtube.com/embed/kGw4kEPwkQM?si=lTw_BmrkrCWDOgCS"
+    "youtube": "https://www.youtube.com/embed/kGw4kEPwkQM?si=lTw_BmrkrCWDOgCS",
+    "geojson": "rimrockdrive.geojson"
   },
   {
     "title": "Colorado River (UT-128)",
-    "youtube": "https://www.youtube.com/embed/dXqKw5lKsdQ?si=0UNrST5FMpPrnbSG"
+    "youtube": "https://www.youtube.com/embed/dXqKw5lKsdQ?si=0UNrST5FMpPrnbSG",
+    "geojson": "cr175-ut128.geojson"
   },
   {
     "title": "Arches National Park",
-    "youtube": "https://www.youtube.com/embed/wEaj0fMoUOg?si=QN_oYSSmhAQhO-RC"
+    "youtube": "https://www.youtube.com/embed/wEaj0fMoUOg?si=QN_oYSSmhAQhO-RC",
+    "geojson": "archesnp.geojson"
   },
   {
     "title": "Utah Scenic Byway 24",
-    "youtube": "https://www.youtube.com/embed/mck-YCIXEu8?si=JnyykopqbU8xeP23"
+    "youtube": "https://www.youtube.com/embed/mck-YCIXEu8?si=JnyykopqbU8xeP23",
+    "geojson": "i70-ut24.geojson"
   },
   {
     "title": "Capitol Reef National Park",
-    "youtube": "https://www.youtube.com/embed/1IRXq54QY8Y?si=HiceSg1jkiFI7trA"
+    "youtube": "https://www.youtube.com/embed/1IRXq54QY8Y?si=HiceSg1jkiFI7trA",
+    "geojson": "capitolreefnp.geojson"
   },
   {
     "title": "Utah Scenic Byway 12",
-    "youtube": "https://www.youtube.com/embed/0UcUtnM-s5M?si=Vq_seYViBwCLC6so"
+    "youtube": "https://www.youtube.com/embed/0UcUtnM-s5M?si=Vq_seYViBwCLC6so",
+    "geojson": "ut12.geojson"
   },
   {
     "title": "Zion National Park",
-    "youtube": "https://www.youtube.com/embed/vl5yFmxryQY?si=zmDY7EFaYySa2CTb"
+    "youtube": "https://www.youtube.com/embed/vl5yFmxryQY?si=zmDY7EFaYySa2CTb",
+    "geojson": "zionnp.geojson"
   },
   {
     "title": "Hoover Dam",
-    "youtube": "https://www.youtube.com/embed/px5Avuye_IE?si=aPIdCu0ka-FJKkXC"
+    "youtube": "https://www.youtube.com/embed/px5Avuye_IE?si=aPIdCu0ka-FJKkXC",
+    "geojson": "hooverdam.geojson"
   },
   {
     "title": "Historic Route 66",
-    "youtube": "https://www.youtube.com/embed/AfT1L20GJ2g?si=FfQZrN3SdD3TZlq2"
+    "youtube": "https://www.youtube.com/embed/AfT1L20GJ2g?si=FfQZrN3SdD3TZlq2",
+    "geojson": "us66.geojson"
   },
   {
     "title": "Grand Canyon National Park",
-    "youtube": "https://www.youtube.com/embed/NZADtE7_z2Y?si=urrxpgLuFcreYjZg"
+    "youtube": "https://www.youtube.com/embed/NZADtE7_z2Y?si=urrxpgLuFcreYjZg",
+    "geojson": "az64.geojson"
   },
   {
     "title": "GC to VotG",
-    "youtube": "https://www.youtube.com/embed/j9CuPNTUHxI?si=u5kNQOpkxFwPc6F6"
+    "youtube": "https://www.youtube.com/embed/j9CuPNTUHxI?si=u5kNQOpkxFwPc6F6",
+    "geojson": "az64-us89-us160-us163.geojson"
   },
   {
     "title": "VotG & Moki Dugway",
-    "youtube": "https://www.youtube.com/embed/yp2mrequgi8?si=pzC1i9HlnWCd61yR"
+    "youtube": "https://www.youtube.com/embed/yp2mrequgi8?si=pzC1i9HlnWCd61yR",
+    "geojson": "valleyofthegods-mokidugway.geojson"
   }
 ]
