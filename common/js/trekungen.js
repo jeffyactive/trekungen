@@ -11,6 +11,8 @@ const TREKS = [ 'denvegaser', 'via603', 'sierraround', 'phoever', 'amtrak8',
 const offcanvasTitle = document.querySelector('#offcanvasTitle');
 const trekTitle = document.querySelector('#trekTitle');
 const trekYouTube = document.querySelector('#trekYouTube');
+const trekWebPage = document.querySelector('#trekWebPage');
+const trekGitHub = document.querySelector('#trekGitHub');
 const offcanvas = new bootstrap.Offcanvas(document.querySelector('#offcanvas'));
 
 // OpenLayers components
@@ -68,6 +70,8 @@ function updateOffcanvas(trek) {
       .then((response) => response.json())
       .then((json) => { trekTitle.textContent = json.title;
                         trekYouTube.src = json.youtube;
+                        trekWebPage.href = document.location.href + trek,
+                        trekWebPage.hidden = (json.hasWebPage !== true),
                         trekGitHub.href = TREKUNGEN_GITHUB + trek });
   offcanvasTitle.textContent = trek;
   offcanvas.show();
