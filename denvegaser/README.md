@@ -76,7 +76,9 @@ Denver to Las Vegas
 
 :globe_with_meridians: Overpass API query:
 
-    ...
+    ( way[name="Main Park Road"](38.6098,-109.6292,38.7431,-109.5324);
+      way[name="Windows Road"](38.6098,-109.6292,38.7431,-109.5324);
+      way[name="Fiery Furnace Viewpoint"](38.6098,-109.6292,38.7431,-109.5324); );
 
 </details>
 
