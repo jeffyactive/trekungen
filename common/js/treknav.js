@@ -5,7 +5,8 @@ const trekYouTube = document.querySelector('#trekYouTube');
 // OpenLayers components
 const GeoJSON = ol.format.GeoJSON;
 const vectorSource = new ol.source.Vector({});
-const vectorLayer = new ol.layer.Vector({ source: vectorSource });
+const vectorLayer = new ol.layer.Vector({ source: vectorSource,
+                                          style: setFeatureStyle });
 
 let sections;
 
@@ -77,4 +78,9 @@ function updateMap(json) {
   });
 
   map.setView(view);
+}
+
+// Set the style of the feature (simply increasing stroke width for visibility)
+function setFeatureStyle(feature) {
+  return new ol.style.Style({ stroke: new ol.style.Stroke({ width: 3 }) });
 }
