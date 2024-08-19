@@ -4,8 +4,8 @@
 // Site-specific constants
 const BASE_PATH = '/trekungen/';
 const TREKUNGEN_GITHUB = 'https://github.com/jeffyactive/trekungen/tree/master/';
-const TREKS = [ 'denvegaser', 'via603', 'sierraround', 'phoever', 'amtrak8',
-                'via1' ];
+const TREKS = [ '2mit', 'denvegaser', 'via603', 'sierraround', 'phoever',
+                'amtrak8', 'via1' ];
 
 // DOM elements
 const offcanvasTitle = document.querySelector('#offcanvasTitle');

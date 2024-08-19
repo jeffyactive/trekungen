@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> 2mit </title>
+    <meta name="description" content="Quebec to MIT on scenic byways, combining open mapping technologies and YouTube videos.">
+    <link rel="stylesheet" href="../common/style/ol.css">
+    <link rel="stylesheet" href="../common/style/bootstrap.min.css">
+    <link rel="stylesheet" href="../common/style/bootstrap-icons.min.css">
+  </head>
+  <body>
+    <nav class="navbar sticky-top navbar-expand-lg fixed-top bg-body-tertiary">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="../">
+          <i class="bi-compass"></i> trekungen
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navungen" aria-controls="navungen"
+                aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navungen">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          </ul>
+          <ul class="navbar-nav">
+            <!-- List of open source software used in this web application -->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" role="button"
+                 data-bs-toggle="dropdown" aria-expanded="false">
+                Open Source
+              </a>
+              <ul class="dropdown-menu dropdown-menu-end shadow">
+                <li><h6 class="dropdown-header"> Web app: </h6></li>
+                <li>
+                  <a class="dropdown-item" target="_blank"
+                     href="https://github.com/jeffyactive/trekungen">
+                    <i class="bi-github"></i>/jeffyactive/trekungen
+                    <span class="badge text-bg-info ms-1"> MIT / CC0-1.0 </span>
+                  </a>
+                </li>
+                <li><hr class="dropdown-divider"></li>
+                <li><h6 class="dropdown-header"> Built using: </h6></li>
+                <li>
+                  <a class="dropdown-item" target="_blank"
+                     href="https://openlayers.org/">
+                    <i class="bi-code-slash"></i> OpenLayers
+                    <span class="badge text-bg-info ms-1"> 2-Clause BSD </span>
+                  </a>
+                </li>
+                <li>
+                  <a class="dropdown-item" target="_blank"
+                     href="https://getbootstrap.com/">
+                    <i class="bi-bootstrap"></i> Bootstrap
+                    <span class="badge text-bg-info ms-1"> MIT </span>
+                  </a>
+                </li>
+                <li>
+                  <a class="dropdown-item" target="_blank"
+                     href="https://icons.getbootstrap.com/">
+                    <i class="bi-bootstrap"></i> Bootstrap Icons
+                    <span class="badge text-bg-info ms-1"> MIT </span>
+                  </a>
+                </li>
+                <li><hr class="dropdown-divider"></li>
+                <li><h6 class="dropdown-header"> Open data from: </h6></li>
+                <li>
+                  <a class="dropdown-item" target="_blank"
+                     href="https://openstreetmap.org/">
+                    <i class="bi-database"></i> OpenStreetMap
+                    <span class="badge text-bg-info ms-1"> ODbL </span>
+                  </a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="container-fluid">
+      <div class="row justify-content-center">
+        <div class="col-lg-12 col-xl-10 col-xxl-8">
+          <h1 class="text-center mt-5"> Qu&eacute;bec to MIT on scenic byways </h1>
+          <div class="row align-items-start my-5">
+            <div class="col-md-3">
+              <nav id="navSection" class="nav flex-column nav-underline me-3"></nav>
+            </div>
+            <div class="col-md-9">
+              <div class="ratio ratio-16x9">
+                <iframe id="trekYouTube" src=""
+                        title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin"
+                        allowfullscreen></iframe>
+              </div>
+              <div id="map" class="map w-100" style="height:480px"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="../common/js/bootstrap.bundle.min.js"></script>
+    <script src="../common/js/ol.js"></script>
+    <script type="module" src="../common/js/treknav.js"></script>
+  </body>
+</html>
