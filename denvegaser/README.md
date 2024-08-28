@@ -280,3 +280,35 @@ Las Vegas to Denver
       way[name="Moki Dugway"](37.2640,-109.9447,37.2784,-109.9337); );
 
 </details>
+
+<details>
+
+<summary>2.3 UT-95</summary>
+
+### Crossing Southeast Utah on UT-95
+
+:round_pushpin: [Route](geojson/ut95.geojson):
+- __UT-95__ to Blanding, UT
+
+:movie_camera: [YouTube](https://youtu.be/xkaZfmJ0XBU)
+
+:globe_with_meridians: Overpass API query:
+
+    way[ref~"UT 95"](37.4893,-110.01,37.6,-109.487461);
+
+</details>
+
+<summary>2.4 The San Juan Skyway</summary>
+
+### The San Juan Skyway crossing Colorado's Lizard Head Pass
+
+:round_pushpin: [Route](geojson/co145.geojson):
+- __CO-145__ from Dolores, CO to Placerville, CO
+
+:movie_camera: [YouTube](https://youtu.be/O-vDxB1yyes)
+
+:globe_with_meridians: Overpass API query:
+
+    way[ref~"CO 145"](37.465164,-108.521061,38.02064,-107.87094);
+
+</details>

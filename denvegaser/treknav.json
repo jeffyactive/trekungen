@@ -63,5 +63,15 @@
     "title": "VotG & Moki Dugway",
     "youtube": "https://www.youtube.com/embed/yp2mrequgi8?si=pzC1i9HlnWCd61yR",
     "geojson": "valleyofthegods-mokidugway.geojson"
+  },
+  {
+    "title": "UT-95",
+    "youtube": "https://www.youtube.com/embed/xkaZfmJ0XBU?si=JNWlYflpYk46zfGh",
+    "geojson": "ut95.geojson"
+  },
+  {
+    "title": "San Juan Skyway",
+    "youtube": "https://www.youtube.com/embed/O-vDxB1yyes?si=WsxqsbP4EqdVrOCO",
+    "geojson": "co145.geojson"
   }
 ]
