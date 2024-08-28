@@ -8,6 +8,11 @@ const vectorSource = new ol.source.Vector({});
 const vectorLayer = new ol.layer.Vector({ source: vectorSource,
                                           style: setFeatureStyle });
 
+// Constants
+const TRACE_WIDTH = 12;
+const TRACE_COLOUR = ol.color.asArray([ 0, 0, 0, 0.5 ]);
+const EXTENSION_FACTOR = 0.25;
+
 let sections;
 
 // Retrieve the trek sections for navigation
@@ -69,10 +74,11 @@ function updateMap(json) {
 
   let extent = vectorSource.getExtent();
   let center = ol.extent.getCenter(extent);
+  let extension = ol.extent.getWidth(extent) * EXTENSION_FACTOR;
   let view = new ol.View({
       projection: 'EPSG:4326',
       showFullExtent: true,
-      extent: extent,
+      extent: ol.extent.buffer(extent, extension),
       center: center,
       zoom: 6
   });
@@ -82,5 +88,6 @@ function updateMap(json) {
 
 // Set the style of the feature (simply increasing stroke width for visibility)
 function setFeatureStyle(feature) {
-  return new ol.style.Style({ stroke: new ol.style.Stroke({ width: 3 }) });
+  let stroke = new ol.style.Stroke({ width: TRACE_WIDTH, color: TRACE_COLOUR });
+  return new ol.style.Style({ stroke: stroke });
 }
